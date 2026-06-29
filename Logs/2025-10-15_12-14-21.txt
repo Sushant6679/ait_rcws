@@ -1,0 +1,87 @@
+[Unknown         - 2025-10-15 12:14:22,010] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-15 12:14:22,011] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-15 12:14:22,011] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-15 12:14:22,011] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-15 12:14:22,011] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-15 12:14:22,012] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-15 12:14:22,012] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-15 12:14:22,012] [32mVelocity: 50[0m
+[Unknown         - 2025-10-15 12:14:22,013] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-15 12:14:22,013] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-15 12:14:22,013] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-15 12:14:22,013] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-15 12:14:22,013] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-15 12:14:22,013] [32mTracking Kp: 3.2[0m
+[Unknown         - 2025-10-15 12:14:22,014] [32mTracking Ki: 0.7[0m
+[Unknown         - 2025-10-15 12:14:22,014] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-15 12:14:22,014] [32mRadar IP: 10.1.0.245[0m
+[Unknown         - 2025-10-15 12:14:22,014] [32mRadar Port: 9010[0m
+[Unknown         - 2025-10-15 12:14:22,014] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-15 12:14:22,014] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-15 12:14:22,014] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2025-10-15 12:14:22,016] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-15 12:14:25,513] [32mLogged in[0m
+[ADMIN           - 2025-10-15 12:14:25,515] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-15 12:14:25,515] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-15 12:14:25,529] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-15 12:14:33,036] [35m(-180, 180, -10, 45)[0m
+[ADMIN           - 2025-10-15 12:14:43,890] [32mConfiguration loaded[0m
+[ADMIN           - 2025-10-15 12:14:43,891] [32mWind Speed Mode: Manual[0m
+[ADMIN           - 2025-10-15 12:14:43,891] [32mManual Wind Speed set to: 0.0[0m
+[ADMIN           - 2025-10-15 12:14:43,891] [32mWind Direction: 0[0m
+[ADMIN           - 2025-10-15 12:14:43,891] [32mLRF Firing Enabled: False[0m
+[ADMIN           - 2025-10-15 12:14:43,892] [32mDefault LRF Distance: 1000[0m
+[ADMIN           - 2025-10-15 12:14:43,892] [32mTrack Mode: Manual ground tracking[0m
+[ADMIN           - 2025-10-15 12:14:43,892] [32mVelocity: 50[0m
+[ADMIN           - 2025-10-15 12:14:43,892] [32mThermal Camera Power: Off[0m
+[ADMIN           - 2025-10-15 12:14:43,892] [32mFiring Rate: 700[0m
+[ADMIN           - 2025-10-15 12:14:43,893] [32mNumber of Rounds: 0[0m
+[ADMIN           - 2025-10-15 12:14:43,893] [32mFire on Move: Off[0m
+[ADMIN           - 2025-10-15 12:14:43,893] [32mMils Value: 1.0[0m
+[ADMIN           - 2025-10-15 12:14:43,893] [32mTracking Kp: 3.2[0m
+[ADMIN           - 2025-10-15 12:14:43,893] [32mTracking Ki: 0.7[0m
+[ADMIN           - 2025-10-15 12:14:43,893] [32mTracking Kd: 0.0[0m
+[ADMIN           - 2025-10-15 12:14:43,893] [32mRadar IP: 10.1.0.245[0m
+[ADMIN           - 2025-10-15 12:14:43,894] [32mRadar Port: 9010[0m
+[ADMIN           - 2025-10-15 12:14:44,121] [32mSuccessfully set track mode to Manual ground tracking[0m
+[ADMIN           - 2025-10-15 12:14:44,122] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [-10, 45][0m
+[ADMIN           - 2025-10-15 12:14:44,122] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-15 12:14:44,123] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-15 12:14:44,291] [32mReloading configuration...[0m
+[ADMIN           - 2025-10-15 12:14:44,303] [32mConfiguration loaded[0m
+[ADMIN           - 2025-10-15 12:14:44,303] [32mWind Speed Mode: Manual[0m
+[ADMIN           - 2025-10-15 12:14:44,303] [32mManual Wind Speed set to: 0.0[0m
+[ADMIN           - 2025-10-15 12:14:44,303] [32mWind Direction: 0[0m
+[ADMIN           - 2025-10-15 12:14:44,304] [32mLRF Firing Enabled: False[0m
+[ADMIN           - 2025-10-15 12:14:44,304] [32mDefault LRF Distance: 1000[0m
+[ADMIN           - 2025-10-15 12:14:44,304] [32mTrack Mode: Manual ground tracking[0m
+[ADMIN           - 2025-10-15 12:14:44,304] [32mVelocity: 50[0m
+[ADMIN           - 2025-10-15 12:14:44,304] [32mThermal Camera Power: Off[0m
+[ADMIN           - 2025-10-15 12:14:44,305] [32mFiring Rate: 700[0m
+[ADMIN           - 2025-10-15 12:14:44,305] [32mNumber of Rounds: 0[0m
+[ADMIN           - 2025-10-15 12:14:44,305] [32mFire on Move: Off[0m
+[ADMIN           - 2025-10-15 12:14:44,305] [32mMils Value: 1.0[0m
+[ADMIN           - 2025-10-15 12:14:44,305] [32mTracking Kp: 3.2[0m
+[ADMIN           - 2025-10-15 12:14:44,306] [32mTracking Ki: 0.7[0m
+[ADMIN           - 2025-10-15 12:14:44,306] [32mTracking Kd: 0.0[0m
+[ADMIN           - 2025-10-15 12:14:44,306] [32mRadar IP: 10.1.0.245[0m
+[ADMIN           - 2025-10-15 12:14:44,306] [32mRadar Port: 9010[0m
+[ADMIN           - 2025-10-15 12:14:44,495] [32mSuccessfully set track mode to Manual ground tracking[0m
+[ADMIN           - 2025-10-15 12:14:44,496] [32mUpdated taboo values from config: Pan: [-120, 60], Tilt: [-10, 45][0m
+[ADMIN           - 2025-10-15 12:14:44,496] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-15 12:14:44,496] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-15 12:14:44,682] [32mApplication state updated. Wind speed mode: Manual, Manual wind speed: 0.0[0m
+[ADMIN           - 2025-10-15 12:14:44,682] [32mTarget taboo values - Pan: [-120.0, 60.0], Tilt: [-10.0,45.0][0m
+[ADMIN           - 2025-10-15 12:14:44,683] [32mCurrent position - Pan: -0.001373291015625° (2 counts), Tilt: -0.01373291015625° (-20 counts)[0m
+[ADMIN           - 2025-10-15 12:14:44,683] [32mCalculated zeroth tilt position: 0.0[0m
+[ADMIN           - 2025-10-15 12:14:44,683] [32mUsing standard tilt calculation for RCWS system[0m
+[ADMIN           - 2025-10-15 12:14:44,683] [32mCalculated absolute encoder positions for limits - Pan: [174762, -87381], Tilt: [-14563, 65536][0m
+[ADMIN           - 2025-10-15 12:14:44,684] [32mSending taboo values to motors - Pan: [174762, -87381], Tilt: [-14563, 65536][0m
+[ADMIN           - 2025-10-15 12:14:44,899] [32mSuccessfully sent taboo values to motors[0m
+[ADMIN           - 2025-10-15 12:14:44,900] [32mConfiguration reloaded, application state updated, and taboo values sent to motors.[0m
+[ADMIN           - 2025-10-15 12:18:40,627] [32mMoving Gun to (2.0, 2.0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-15 12:18:40,661] [32mSending adjusted values to controller: (2.0, 2.0)[0m
+[ADMIN           - 2025-10-15 12:21:54,505] [32mMoving Gun to (0, 0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-15 12:21:54,505] [32mSending adjusted values to controller: (0, 0)[0m
+[ADMIN           - 2025-10-15 12:21:55,266] [33mGun not at zero position. Current position: Azimuth 2.0029449462890625, Elevation 2.0001983642578125[0m
+[ADMIN           - 2025-10-15 12:21:59,881] [32mCASTLE listener stopped[0m

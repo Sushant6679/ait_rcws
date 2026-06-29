@@ -1,0 +1,8 @@
+[Unknown         - 2025-10-15 22:32:54,125] [31mFailed to load configuration: float() argument must be a string or a real number, not 'SectionProxy'[0m
+[Unknown         - 2025-10-15 22:32:54,153] [32mInitial manual_wind_speed after loading config: 0[0m
+[Unknown         - 2025-10-15 22:32:57,050] [32mLogged in[0m
+[ADMIN           - 2025-10-15 22:32:57,050] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-15 22:32:57,052] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-15 22:32:57,080] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-15 22:33:02,415] [31m[ ERROR ] Failed to open serial port[0m
+[ADMIN           - 2025-10-15 22:33:04,694] [35m(-180, 180, -10, 45)[0m

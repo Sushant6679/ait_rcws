@@ -1,0 +1,28 @@
+[Unknown         - 2025-10-14 11:38:44,242] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-14 11:38:44,243] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-14 11:38:44,243] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-14 11:38:44,244] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-14 11:38:44,244] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-14 11:38:44,245] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-14 11:38:44,245] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-14 11:38:44,246] [32mVelocity: 50[0m
+[Unknown         - 2025-10-14 11:38:44,250] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-14 11:38:44,251] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-14 11:38:44,251] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-14 11:38:44,251] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-14 11:38:44,252] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-14 11:38:44,253] [32mTracking Kp: 4.2[0m
+[Unknown         - 2025-10-14 11:38:44,253] [32mTracking Ki: 1.9[0m
+[Unknown         - 2025-10-14 11:38:44,255] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-14 11:38:44,255] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-14 11:38:44,256] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-14 11:38:44,257] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-14 11:38:47,242] [32mLogged in[0m
+[ADMIN           - 2025-10-14 11:38:47,243] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-14 11:38:47,246] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-14 11:38:47,272] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-14 11:38:50,967] [35m(-180, 180, -10, 45)[0m
+[ADMIN           - 2025-10-14 11:39:08,125] [32mMoving Gun to (0, 0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-14 11:39:08,126] [32mSending adjusted values to controller: (0, 0)[0m
+[ADMIN           - 2025-10-14 11:39:08,846] [33mGun not at zero position. Current position: Azimuth -1.6074371337890625, Elevation 0.8342742919921875[0m
+[ADMIN           - 2025-10-14 11:39:14,681] [32mCASTLE listener stopped[0m

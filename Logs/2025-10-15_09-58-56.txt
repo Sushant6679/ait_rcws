@@ -1,0 +1,29 @@
+[Unknown         - 2025-10-15 09:58:57,256] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-15 09:58:57,257] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-15 09:58:57,257] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-15 09:58:57,257] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-15 09:58:57,257] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-15 09:58:57,257] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-15 09:58:57,258] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-15 09:58:57,258] [32mVelocity: 50[0m
+[Unknown         - 2025-10-15 09:58:57,258] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-15 09:58:57,258] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-15 09:58:57,259] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-15 09:58:57,259] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-15 09:58:57,259] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-15 09:58:57,259] [32mTracking Kp: 3.2[0m
+[Unknown         - 2025-10-15 09:58:57,259] [32mTracking Ki: 0.7[0m
+[Unknown         - 2025-10-15 09:58:57,260] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-15 09:58:57,260] [32mRadar IP: 10.1.0.245[0m
+[Unknown         - 2025-10-15 09:58:57,260] [32mRadar Port: 9010[0m
+[Unknown         - 2025-10-15 09:58:57,260] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-15 09:58:57,260] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-15 09:58:57,261] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2025-10-15 09:58:57,261] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-15 09:58:59,802] [32mLogged in[0m
+[ADMIN           - 2025-10-15 09:58:59,802] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-15 09:58:59,803] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-15 09:58:59,813] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-15 09:59:04,987] [31m[ ERROR ] Failed to open serial port[0m
+[ADMIN           - 2025-10-15 09:59:17,286] [35m(-180, 180, -10, 45)[0m
+[ADMIN           - 2025-10-15 09:59:22,907] [32mCASTLE listener stopped[0m

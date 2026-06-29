@@ -1,0 +1,287 @@
+[Unknown         - 2025-10-17 10:02:32,119] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-17 10:02:32,119] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-17 10:02:32,119] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-17 10:02:32,120] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-17 10:02:32,120] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-17 10:02:32,120] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-17 10:02:32,121] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-17 10:02:32,121] [32mVelocity: 50[0m
+[Unknown         - 2025-10-17 10:02:32,122] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-17 10:02:32,122] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-17 10:02:32,122] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-17 10:02:32,122] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-17 10:02:32,122] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-17 10:02:32,122] [32mTracking Kp: 3.2[0m
+[Unknown         - 2025-10-17 10:02:32,123] [32mTracking Ki: 0.7[0m
+[Unknown         - 2025-10-17 10:02:32,123] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-17 10:02:32,123] [32mRadar IP: 10.1.0.245[0m
+[Unknown         - 2025-10-17 10:02:32,123] [32mRadar Port: 9010[0m
+[Unknown         - 2025-10-17 10:02:32,123] [32mLatitude: 34.1523[0m
+[Unknown         - 2025-10-17 10:02:32,123] [32mLongitude: 77.577[0m
+[Unknown         - 2025-10-17 10:02:32,123] [32mAltitude: 0.0[0m
+[Unknown         - 2025-10-17 10:02:32,123] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-17 10:02:32,124] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-17 10:02:32,124] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2025-10-17 10:02:32,124] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-17 10:02:33,463] [32mLogged in[0m
+[ADMIN           - 2025-10-17 10:02:33,463] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-17 10:02:33,465] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-17 10:02:33,478] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-17 10:02:39,448] [35m(-180, 180, -10, 45)[0m
+[ADMIN           - 2025-10-17 10:02:52,521] [32mConfiguration loaded[0m
+[ADMIN           - 2025-10-17 10:02:52,521] [32mWind Speed Mode: Manual[0m
+[ADMIN           - 2025-10-17 10:02:52,521] [32mManual Wind Speed set to: 0.0[0m
+[ADMIN           - 2025-10-17 10:02:52,521] [32mWind Direction: 0[0m
+[ADMIN           - 2025-10-17 10:02:52,522] [32mLRF Firing Enabled: False[0m
+[ADMIN           - 2025-10-17 10:02:52,522] [32mDefault LRF Distance: 1000[0m
+[ADMIN           - 2025-10-17 10:02:52,522] [32mTrack Mode: Manual ground tracking[0m
+[ADMIN           - 2025-10-17 10:02:52,522] [32mVelocity: 50[0m
+[ADMIN           - 2025-10-17 10:02:52,522] [32mThermal Camera Power: Off[0m
+[ADMIN           - 2025-10-17 10:02:52,522] [32mFiring Rate: 700[0m
+[ADMIN           - 2025-10-17 10:02:52,522] [32mNumber of Rounds: 0[0m
+[ADMIN           - 2025-10-17 10:02:52,522] [32mFire on Move: Off[0m
+[ADMIN           - 2025-10-17 10:02:52,522] [32mMils Value: 1.0[0m
+[ADMIN           - 2025-10-17 10:02:52,524] [32mTracking Kp: 3.2[0m
+[ADMIN           - 2025-10-17 10:02:52,524] [32mTracking Ki: 0.7[0m
+[ADMIN           - 2025-10-17 10:02:52,524] [32mTracking Kd: 0.0[0m
+[ADMIN           - 2025-10-17 10:02:52,524] [32mRadar IP: 10.1.0.245[0m
+[ADMIN           - 2025-10-17 10:02:52,524] [32mRadar Port: 9010[0m
+[ADMIN           - 2025-10-17 10:02:52,524] [32mLatitude: 34.1523[0m
+[ADMIN           - 2025-10-17 10:02:52,525] [32mLongitude: 77.577[0m
+[ADMIN           - 2025-10-17 10:02:52,525] [32mAltitude: 0.0[0m
+[ADMIN           - 2025-10-17 10:02:52,821] [32mSuccessfully set track mode to Manual ground tracking[0m
+[ADMIN           - 2025-10-17 10:02:52,822] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [-10, 45][0m
+[ADMIN           - 2025-10-17 10:02:52,822] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-17 10:02:52,822] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-17 10:02:52,880] [32mReloading configuration...[0m
+[ADMIN           - 2025-10-17 10:02:52,892] [32mConfiguration loaded[0m
+[ADMIN           - 2025-10-17 10:02:52,892] [32mWind Speed Mode: Manual[0m
+[ADMIN           - 2025-10-17 10:02:52,892] [32mManual Wind Speed set to: 0.0[0m
+[ADMIN           - 2025-10-17 10:02:52,892] [32mWind Direction: 0[0m
+[ADMIN           - 2025-10-17 10:02:52,892] [32mLRF Firing Enabled: True[0m
+[ADMIN           - 2025-10-17 10:02:52,893] [32mDefault LRF Distance: 1000[0m
+[ADMIN           - 2025-10-17 10:02:52,893] [32mTrack Mode: Manual ground tracking[0m
+[ADMIN           - 2025-10-17 10:02:52,893] [32mVelocity: 50[0m
+[ADMIN           - 2025-10-17 10:02:52,893] [32mThermal Camera Power: Off[0m
+[ADMIN           - 2025-10-17 10:02:52,893] [32mFiring Rate: 700[0m
+[ADMIN           - 2025-10-17 10:02:52,894] [32mNumber of Rounds: 0[0m
+[ADMIN           - 2025-10-17 10:02:52,894] [32mFire on Move: Off[0m
+[ADMIN           - 2025-10-17 10:02:52,894] [32mMils Value: 1.0[0m
+[ADMIN           - 2025-10-17 10:02:52,894] [32mTracking Kp: 3.2[0m
+[ADMIN           - 2025-10-17 10:02:52,894] [32mTracking Ki: 0.7[0m
+[ADMIN           - 2025-10-17 10:02:52,894] [32mTracking Kd: 0.0[0m
+[ADMIN           - 2025-10-17 10:02:52,894] [32mRadar IP: 10.1.0.245[0m
+[ADMIN           - 2025-10-17 10:02:52,894] [32mRadar Port: 9010[0m
+[ADMIN           - 2025-10-17 10:02:52,894] [32mLatitude: 34.1523[0m
+[ADMIN           - 2025-10-17 10:02:52,895] [32mLongitude: 77.577[0m
+[ADMIN           - 2025-10-17 10:02:52,895] [32mAltitude: 0.0[0m
+[ADMIN           - 2025-10-17 10:02:53,161] [32mSuccessfully set track mode to Manual ground tracking[0m
+[ADMIN           - 2025-10-17 10:02:53,161] [32mUpdated taboo values from config: Pan: [-120, 40], Tilt: [-10, 45][0m
+[ADMIN           - 2025-10-17 10:02:53,162] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-17 10:02:53,162] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-17 10:02:53,294] [32mApplication state updated. Wind speed mode: Manual, Manual wind speed: 0.0[0m
+[ADMIN           - 2025-10-17 10:02:53,294] [32mTarget taboo values - Pan: [-120.0, 40.0], Tilt: [-10.0,45.0][0m
+[ADMIN           - 2025-10-17 10:02:53,295] [32mCurrent position - Pan: -80.09994506835938° (116654 counts), Tilt: 44.99382019042969° (65527 counts)[0m
+[ADMIN           - 2025-10-17 10:02:53,295] [32mCalculated zeroth tilt position: 0.0[0m
+[ADMIN           - 2025-10-17 10:02:53,295] [32mUsing standard tilt calculation for RCWS system[0m
+[ADMIN           - 2025-10-17 10:02:53,295] [32mCalculated absolute encoder positions for limits - Pan: [174762, -58254], Tilt: [-14563, 65536][0m
+[ADMIN           - 2025-10-17 10:02:53,296] [32mSending taboo values to motors - Pan: [174762, -58254], Tilt: [-14563, 65536][0m
+[ADMIN           - 2025-10-17 10:02:53,416] [32mSuccessfully sent taboo values to motors[0m
+[ADMIN           - 2025-10-17 10:02:53,417] [32mConfiguration reloaded, application state updated, and taboo values sent to motors.[0m
+[ADMIN           - 2025-10-17 10:03:06,733] [32mMoving Gun to (-75.79998779296875, 6.960000038146973) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:03:06,733] [32mSending adjusted values to controller: (-75.79998779296875, 6.960000038146973)[0m
+[ADMIN           - 2025-10-17 10:03:07,735] [32mMoving Gun to (-75.79998779296875, 6.940000057220459) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:03:07,735] [32mSending adjusted values to controller: (-75.79998779296875, 6.940000057220459)[0m
+[ADMIN           - 2025-10-17 10:03:09,619] [32mMoving Gun to (-75.79998779296875, 6.920000076293945) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:03:09,619] [32mSending adjusted values to controller: (-75.79998779296875, 6.920000076293945)[0m
+[ADMIN           - 2025-10-17 10:03:10,336] [32mMoving Gun to (-75.79000854492188, 6.900000095367432) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:03:10,336] [32mSending adjusted values to controller: (-75.79000854492188, 6.900000095367432)[0m
+[ADMIN           - 2025-10-17 10:03:18,755] [32mMoving Gun to (-75.739990234375, 6.699999809265137) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:03:18,755] [32mSending adjusted values to controller: (-75.739990234375, 6.699999809265137)[0m
+[ADMIN           - 2025-10-17 10:03:19,756] [32mMoving Gun to (-75.73001098632812, 6.670000076293945) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:03:19,756] [32mSending adjusted values to controller: (-75.73001098632812, 6.670000076293945)[0m
+[ADMIN           - 2025-10-17 10:06:48,333] [32mMoving Gun to (-75.0, 2.0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:06:48,333] [32mSending adjusted values to controller: (-75.0, 2.0)[0m
+[ADMIN           - 2025-10-17 10:06:49,379] [32mMoving Gun to (-75.010009765625, 2.0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:06:49,379] [32mSending adjusted values to controller: (-75.010009765625, 2.0)[0m
+[ADMIN           - 2025-10-17 10:06:50,780] [32mMoving Gun to (-75.0, 2.0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:06:50,780] [32mSending adjusted values to controller: (-75.0, 2.0)[0m
+[ADMIN           - 2025-10-17 10:16:54,917] [32mMoving Gun to (-75.80999755859375, 0.910003662109375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:16:54,917] [32mSending adjusted values to controller: (-75.80999755859375, 0.910003662109375)[0m
+[ADMIN           - 2025-10-17 10:16:55,990] [32mMoving Gun to (-74.739990234375, 0.910003662109375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:16:55,990] [32mSending adjusted values to controller: (-74.739990234375, 0.910003662109375)[0m
+[ADMIN           - 2025-10-17 10:17:11,664] [32mMoving Gun to (-77.20001220703125, 0.92999267578125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:17:11,664] [32mSending adjusted values to controller: (-77.20001220703125, 0.92999267578125)[0m
+[ADMIN           - 2025-10-17 10:17:12,690] [32mMoving Gun to (-78.30999755859375, 0.92999267578125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:17:12,691] [32mSending adjusted values to controller: (-78.30999755859375, 0.92999267578125)[0m
+[ADMIN           - 2025-10-17 10:17:16,901] [32mMoving Gun to (-77.91000366210938, 0.94000244140625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:17:16,901] [32mSending adjusted values to controller: (-77.91000366210938, 0.94000244140625)[0m
+[ADMIN           - 2025-10-17 10:17:17,938] [32mMoving Gun to (-77.92001342773438, 0.94000244140625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:17:17,940] [32mSending adjusted values to controller: (-77.92001342773438, 0.94000244140625)[0m
+[ADMIN           - 2025-10-17 10:23:40,595] [32mMoving Gun to (-66.6300048828125, 1.54998779296875) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:23:40,595] [32mSending adjusted values to controller: (-66.6300048828125, 1.54998779296875)[0m
+[ADMIN           - 2025-10-17 10:23:41,650] [32mMoving Gun to (-71.14999389648438, -0.8800048828125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:23:41,651] [32mSending adjusted values to controller: (-71.14999389648438, -0.8800048828125)[0m
+[ADMIN           - 2025-10-17 10:23:43,075] [32mMoving Gun to (-71.89999389648438, -1.29998779296875) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:23:43,076] [32mSending adjusted values to controller: (-71.89999389648438, -1.29998779296875)[0m
+[ADMIN           - 2025-10-17 10:23:49,079] [32mMoving Gun to (-78.0, 2.009999990463257) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:23:49,080] [32mSending adjusted values to controller: (-78.0, 2.009999990463257)[0m
+[ADMIN           - 2025-10-17 10:23:50,136] [32mMoving Gun to (-78.010009765625, 0.8900146484375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:23:50,137] [32mSending adjusted values to controller: (-78.010009765625, 0.8900146484375)[0m
+[ADMIN           - 2025-10-17 10:35:28,950] [32mMoving Gun to (-72.6099853515625, 1.600006103515625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:35:28,951] [32mSending adjusted values to controller: (-72.6099853515625, 1.600006103515625)[0m
+[ADMIN           - 2025-10-17 10:35:30,040] [32mMoving Gun to (-72.6099853515625, 1.6099853515625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:35:30,040] [32mSending adjusted values to controller: (-72.6099853515625, 1.6099853515625)[0m
+[ADMIN           - 2025-10-17 10:35:33,311] [32mMoving Gun to (-65.3699951171875, 1.6099853515625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:35:33,311] [32mSending adjusted values to controller: (-65.3699951171875, 1.6099853515625)[0m
+[ADMIN           - 2025-10-17 10:35:44,998] [32mMoving Gun to (-72.72000122070312, 1.6099853515625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:35:44,998] [32mSending adjusted values to controller: (-72.72000122070312, 1.6099853515625)[0m
+[ADMIN           - 2025-10-17 10:35:46,108] [32mMoving Gun to (-77.47000122070312, 1.6099853515625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:35:46,110] [32mSending adjusted values to controller: (-77.47000122070312, 1.6099853515625)[0m
+[ADMIN           - 2025-10-17 10:36:50,639] [32mMoving Gun to (-83.04000854492188, 1.660003662109375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:36:50,640] [32mSending adjusted values to controller: (-83.04000854492188, 1.660003662109375)[0m
+[ADMIN           - 2025-10-17 10:37:33,959] [32mMoving Gun to (-76.23001098632812, 1.649993896484375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:37:33,960] [32mSending adjusted values to controller: (-76.23001098632812, 1.649993896484375)[0m
+[ADMIN           - 2025-10-17 10:37:34,991] [32mMoving Gun to (-73.95001220703125, 1.649993896484375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:37:34,992] [32mSending adjusted values to controller: (-73.95001220703125, 1.649993896484375)[0m
+[ADMIN           - 2025-10-17 10:37:36,160] [32mMoving Gun to (-73.95001220703125, 1.660003662109375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:37:36,160] [32mSending adjusted values to controller: (-73.95001220703125, 1.660003662109375)[0m
+[ADMIN           - 2025-10-17 10:37:42,344] [32mMoving Gun to (-78.010009765625, 2.0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:37:42,345] [32mSending adjusted values to controller: (-78.010009765625, 2.0)[0m
+[ADMIN           - 2025-10-17 10:37:43,404] [32mMoving Gun to (-78.0, 2.0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:37:43,405] [32mSending adjusted values to controller: (-78.0, 2.0)[0m
+[ADMIN           - 2025-10-17 10:37:54,037] [32mMoving Gun to (-78.010009765625, 2.009999990463257) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:37:54,038] [32mSending adjusted values to controller: (-78.010009765625, 2.009999990463257)[0m
+[ADMIN           - 2025-10-17 10:37:55,055] [32mMoving Gun to (-78.0, 2.009999990463257) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:37:55,057] [32mSending adjusted values to controller: (-78.0, 2.009999990463257)[0m
+[ADMIN           - 2025-10-17 10:37:56,454] [32mMoving Gun to (-78.0, 2.0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:37:56,454] [32mSending adjusted values to controller: (-78.0, 2.0)[0m
+[ADMIN           - 2025-10-17 10:57:34,399] [32mMoving Gun to (0, 0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 10:57:34,400] [32mSending adjusted values to controller: (0, 0)[0m
+[ADMIN           - 2025-10-17 11:01:08,902] [32mConfiguration loaded[0m
+[ADMIN           - 2025-10-17 11:01:08,902] [32mWind Speed Mode: Manual[0m
+[ADMIN           - 2025-10-17 11:01:08,902] [32mManual Wind Speed set to: 0.0[0m
+[ADMIN           - 2025-10-17 11:01:08,902] [32mWind Direction: 0[0m
+[ADMIN           - 2025-10-17 11:01:08,903] [32mLRF Firing Enabled: True[0m
+[ADMIN           - 2025-10-17 11:01:08,903] [32mDefault LRF Distance: 1000[0m
+[ADMIN           - 2025-10-17 11:01:08,903] [32mTrack Mode: Manual ground tracking[0m
+[ADMIN           - 2025-10-17 11:01:08,903] [32mVelocity: 50[0m
+[ADMIN           - 2025-10-17 11:01:08,903] [32mThermal Camera Power: Off[0m
+[ADMIN           - 2025-10-17 11:01:08,904] [32mFiring Rate: 700[0m
+[ADMIN           - 2025-10-17 11:01:08,904] [32mNumber of Rounds: 0[0m
+[ADMIN           - 2025-10-17 11:01:08,904] [32mFire on Move: Off[0m
+[ADMIN           - 2025-10-17 11:01:08,904] [32mMils Value: 1.0[0m
+[ADMIN           - 2025-10-17 11:01:08,904] [32mTracking Kp: 3.2[0m
+[ADMIN           - 2025-10-17 11:01:08,904] [32mTracking Ki: 0.7[0m
+[ADMIN           - 2025-10-17 11:01:08,904] [32mTracking Kd: 0.0[0m
+[ADMIN           - 2025-10-17 11:01:08,905] [32mRadar IP: 10.1.0.245[0m
+[ADMIN           - 2025-10-17 11:01:08,905] [32mRadar Port: 9010[0m
+[ADMIN           - 2025-10-17 11:01:08,905] [32mLatitude: 34.1523[0m
+[ADMIN           - 2025-10-17 11:01:08,905] [32mLongitude: 77.577[0m
+[ADMIN           - 2025-10-17 11:01:08,905] [32mAltitude: 0.0[0m
+[ADMIN           - 2025-10-17 11:01:09,120] [32mSuccessfully set track mode to Manual ground tracking[0m
+[ADMIN           - 2025-10-17 11:01:09,120] [32mUpdated taboo values from config: Pan: [-120, 40], Tilt: [-10, 45][0m
+[ADMIN           - 2025-10-17 11:01:09,121] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-17 11:01:09,121] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-17 11:01:09,237] [32mReloading configuration...[0m
+[ADMIN           - 2025-10-17 11:01:09,252] [32mConfiguration loaded[0m
+[ADMIN           - 2025-10-17 11:01:09,252] [32mWind Speed Mode: Manual[0m
+[ADMIN           - 2025-10-17 11:01:09,252] [32mManual Wind Speed set to: 0.0[0m
+[ADMIN           - 2025-10-17 11:01:09,253] [32mWind Direction: 0[0m
+[ADMIN           - 2025-10-17 11:01:09,253] [32mLRF Firing Enabled: True[0m
+[ADMIN           - 2025-10-17 11:01:09,253] [32mDefault LRF Distance: 1000[0m
+[ADMIN           - 2025-10-17 11:01:09,253] [32mTrack Mode: Manual ground tracking[0m
+[ADMIN           - 2025-10-17 11:01:09,254] [32mVelocity: 50[0m
+[ADMIN           - 2025-10-17 11:01:09,254] [32mThermal Camera Power: Off[0m
+[ADMIN           - 2025-10-17 11:01:09,254] [32mFiring Rate: 700[0m
+[ADMIN           - 2025-10-17 11:01:09,254] [32mNumber of Rounds: 0[0m
+[ADMIN           - 2025-10-17 11:01:09,254] [32mFire on Move: On[0m
+[ADMIN           - 2025-10-17 11:01:09,254] [32mMils Value: 1.0[0m
+[ADMIN           - 2025-10-17 11:01:09,255] [32mTracking Kp: 3.2[0m
+[ADMIN           - 2025-10-17 11:01:09,255] [32mTracking Ki: 0.7[0m
+[ADMIN           - 2025-10-17 11:01:09,255] [32mTracking Kd: 0.0[0m
+[ADMIN           - 2025-10-17 11:01:09,255] [32mRadar IP: 10.1.0.245[0m
+[ADMIN           - 2025-10-17 11:01:09,255] [32mRadar Port: 9010[0m
+[ADMIN           - 2025-10-17 11:01:09,255] [32mLatitude: 34.1523[0m
+[ADMIN           - 2025-10-17 11:01:09,255] [32mLongitude: 77.577[0m
+[ADMIN           - 2025-10-17 11:01:09,256] [32mAltitude: 0.0[0m
+[ADMIN           - 2025-10-17 11:01:09,480] [32mSuccessfully set track mode to Manual ground tracking[0m
+[ADMIN           - 2025-10-17 11:01:09,480] [32mUpdated taboo values from config: Pan: [-120, 40], Tilt: [-10, 45][0m
+[ADMIN           - 2025-10-17 11:01:09,481] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-17 11:01:09,481] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-17 11:01:09,645] [32mApplication state updated. Wind speed mode: Manual, Manual wind speed: 0.0[0m
+[ADMIN           - 2025-10-17 11:01:09,645] [32mTarget taboo values - Pan: [-120.0, 40.0], Tilt: [-10.0,45.0][0m
+[ADMIN           - 2025-10-17 11:01:09,646] [32mCurrent position - Pan: 0.0° (0 counts), Tilt: -0.00274658203125° (-4 counts)[0m
+[ADMIN           - 2025-10-17 11:01:09,646] [32mCalculated zeroth tilt position: 0.0[0m
+[ADMIN           - 2025-10-17 11:01:09,646] [32mUsing standard tilt calculation for RCWS system[0m
+[ADMIN           - 2025-10-17 11:01:09,646] [32mCalculated absolute encoder positions for limits - Pan: [174762, -58254], Tilt: [-14563, 65536][0m
+[ADMIN           - 2025-10-17 11:01:09,646] [32mSending taboo values to motors - Pan: [174762, -58254], Tilt: [-14563, 65536][0m
+[ADMIN           - 2025-10-17 11:01:09,782] [32mSuccessfully sent taboo values to motors[0m
+[ADMIN           - 2025-10-17 11:01:09,782] [32mConfiguration reloaded, application state updated, and taboo values sent to motors.[0m
+[ADMIN           - 2025-10-17 11:07:05,302] [32mMoving Gun to (-77.1199951171875, 6.21999979019165) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:05,303] [32mSending adjusted values to controller: (-77.1199951171875, 6.21999979019165)[0m
+[ADMIN           - 2025-10-17 11:07:06,365] [32mMoving Gun to (-77.14999389648438, 6.190000057220459) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:06,366] [32mSending adjusted values to controller: (-77.14999389648438, 6.190000057220459)[0m
+[ADMIN           - 2025-10-17 11:07:07,406] [32mMoving Gun to (-77.20001220703125, 6.130000114440918) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:07,406] [32mSending adjusted values to controller: (-77.20001220703125, 6.130000114440918)[0m
+[ADMIN           - 2025-10-17 11:07:16,712] [32mMoving Gun to (-77.55999755859375, 5.739999771118164) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:16,713] [32mSending adjusted values to controller: (-77.55999755859375, 5.739999771118164)[0m
+[ADMIN           - 2025-10-17 11:07:17,773] [32mMoving Gun to (-77.58999633789062, 5.710000038146973) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:17,773] [32mSending adjusted values to controller: (-77.58999633789062, 5.710000038146973)[0m
+[ADMIN           - 2025-10-17 11:07:19,048] [32mMoving Gun to (-77.6300048828125, 5.679999828338623) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:19,048] [32mSending adjusted values to controller: (-77.6300048828125, 5.679999828338623)[0m
+[ADMIN           - 2025-10-17 11:07:22,025] [32mMoving Gun to (-77.73001098632812, 5.590000152587891) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:22,026] [32mSending adjusted values to controller: (-77.73001098632812, 5.590000152587891)[0m
+[ADMIN           - 2025-10-17 11:07:23,086] [32mMoving Gun to (-77.739990234375, 5.570000171661377) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:23,087] [32mSending adjusted values to controller: (-77.739990234375, 5.570000171661377)[0m
+[ADMIN           - 2025-10-17 11:07:27,304] [32mMoving Gun to (-77.98001098632812, 4.03000020980835) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:27,305] [32mSending adjusted values to controller: (-77.98001098632812, 4.03000020980835)[0m
+[ADMIN           - 2025-10-17 11:07:28,332] [32mMoving Gun to (-78.89999389648438, 4.070000171661377) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:28,333] [32mSending adjusted values to controller: (-78.89999389648438, 4.070000171661377)[0m
+[ADMIN           - 2025-10-17 11:07:29,470] [32mMoving Gun to (-80.05999755859375, 4.110000133514404) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:29,471] [32mSending adjusted values to controller: (-80.05999755859375, 4.110000133514404)[0m
+[ADMIN           - 2025-10-17 11:07:30,423] [32mMoving Gun to (-78.22000122070312, 7.0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:30,424] [32mSending adjusted values to controller: (-78.22000122070312, 7.0)[0m
+[ADMIN           - 2025-10-17 11:07:31,467] [32mMoving Gun to (-78.20999145507812, 7.010000228881836) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:07:31,467] [32mSending adjusted values to controller: (-78.20999145507812, 7.010000228881836)[0m
+[ADMIN           - 2025-10-17 11:15:11,143] [32mMoving Gun to (-77.25, 12.039999961853027) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:15:11,143] [32mSending adjusted values to controller: (-77.25, 12.039999961853027)[0m
+[ADMIN           - 2025-10-17 11:15:12,201] [32mMoving Gun to (-77.239990234375, 12.020000457763672) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:15:12,201] [32mSending adjusted values to controller: (-77.239990234375, 12.020000457763672)[0m
+[ADMIN           - 2025-10-17 11:15:13,840] [32mMoving Gun to (-77.22000122070312, 11.979999542236328) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:15:13,841] [32mSending adjusted values to controller: (-77.22000122070312, 11.979999542236328)[0m
+[ADMIN           - 2025-10-17 11:15:14,328] [32mMoving Gun to (-77.20999145507812, 11.9399995803833) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:15:14,328] [32mSending adjusted values to controller: (-77.20999145507812, 11.9399995803833)[0m
+[ADMIN           - 2025-10-17 11:16:35,534] [35mLRF fired[0m
+[ADMIN           - 2025-10-17 11:16:35,535] [35mFiring LRF[0m
+[ADMIN           - 2025-10-17 11:16:35,718] [34mEvent btn_up for 0 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-17 11:16:35,909] [35mLRF Received 0.0[0m
+[ADMIN           - 2025-10-17 11:17:21,200] [35mLRF fired[0m
+[ADMIN           - 2025-10-17 11:17:21,201] [35mFiring LRF[0m
+[ADMIN           - 2025-10-17 11:17:21,336] [34mEvent btn_up for 0 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-17 11:17:21,545] [35mLRF Received 0.0[0m
+[ADMIN           - 2025-10-17 11:17:44,752] [35mStatus ARMED[0m
+[ADMIN           - 2025-10-17 11:17:44,752] [32mNot applying brake because Fire on Move is On[0m
+[ADMIN           - 2025-10-17 11:17:47,768] [35mTrigger pressed at Azimuth -78.65180969238281, Elevation 11.26373291015625[0m
+[ADMIN           - 2025-10-17 11:17:47,817] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-17 11:17:48,087] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-17 11:17:48,228] [35mTrigger released[0m
+[ADMIN           - 2025-10-17 11:17:53,208] [35mTrigger pressed at Azimuth -78.63670349121094, Elevation 11.273345947265625[0m
+[ADMIN           - 2025-10-17 11:17:53,271] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-17 11:17:53,512] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-17 11:17:53,634] [35mTrigger released[0m
+[ADMIN           - 2025-10-17 11:17:59,536] [35mTrigger pressed at Azimuth -78.62846374511719, Elevation 11.385955810546875[0m
+[ADMIN           - 2025-10-17 11:17:59,665] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-17 11:17:59,911] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-17 11:18:00,058] [35mTrigger released[0m
+[ADMIN           - 2025-10-17 11:18:27,345] [35mLRF fired[0m
+[ADMIN           - 2025-10-17 11:18:27,345] [35mFiring LRF[0m
+[ADMIN           - 2025-10-17 11:18:27,490] [34mEvent btn_up for 0 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-17 11:18:27,534] [35mLRF Received 0.0[0m
+[ADMIN           - 2025-10-17 11:18:30,249] [35mLRF fired[0m
+[ADMIN           - 2025-10-17 11:18:30,249] [35mFiring LRF[0m
+[ADMIN           - 2025-10-17 11:18:30,409] [34mEvent btn_up for 0 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-17 11:18:30,529] [35mLRF Received 0.0[0m
+[ADMIN           - 2025-10-17 11:19:38,218] [32mMoving Gun to (0, 0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-17 11:19:38,218] [32mSending adjusted values to controller: (0, 0)[0m
+[ADMIN           - 2025-10-17 11:19:47,377] [32mCASTLE listener stopped[0m

@@ -1,0 +1,46 @@
+[Unknown         - 2025-10-14 18:14:14,972] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-14 18:14:14,974] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-14 18:14:14,974] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-14 18:14:14,975] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-14 18:14:14,976] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-14 18:14:14,976] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-14 18:14:14,976] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-14 18:14:14,977] [32mVelocity: 50[0m
+[Unknown         - 2025-10-14 18:14:15,041] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-14 18:14:15,042] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-14 18:14:15,042] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-14 18:14:15,043] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-14 18:14:15,043] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-14 18:14:15,045] [32mTracking Kp: 3.2[0m
+[Unknown         - 2025-10-14 18:14:15,045] [32mTracking Ki: 0.7[0m
+[Unknown         - 2025-10-14 18:14:15,045] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-14 18:14:15,046] [32mRadar IP: 10.1.0.250[0m
+[Unknown         - 2025-10-14 18:14:15,046] [32mRadar Port: 9011[0m
+[Unknown         - 2025-10-14 18:14:15,047] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-14 18:14:15,047] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-14 18:14:15,048] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2025-10-14 18:14:15,048] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-14 18:14:24,755] [32mLogged in[0m
+[ADMIN           - 2025-10-14 18:14:24,758] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-14 18:14:24,760] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-14 18:14:24,790] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-14 18:14:31,469] [35m(-180, 180, -10, 45)[0m
+[ADMIN           - 2025-10-14 18:14:46,826] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 18:14:47,048] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 18:14:56,893] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 18:14:57,109] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 18:15:04,770] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 18:15:04,986] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 18:15:21,338] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 18:15:21,567] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 18:15:30,637] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 18:15:30,860] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 18:15:37,875] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 18:15:38,098] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 18:15:44,745] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 18:15:44,960] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 18:15:52,724] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 18:15:52,942] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 18:16:03,149] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 18:16:03,372] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 18:16:19,546] [32mCASTLE listener stopped[0m

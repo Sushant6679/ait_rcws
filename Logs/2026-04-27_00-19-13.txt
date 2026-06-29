@@ -1,0 +1,31 @@
+[Unknown         - 2026-04-27 00:19:14,242] [32mConfiguration loaded[0m
+[Unknown         - 2026-04-27 00:19:14,242] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2026-04-27 00:19:14,242] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2026-04-27 00:19:14,242] [32mWind Direction: 0[0m
+[Unknown         - 2026-04-27 00:19:14,242] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2026-04-27 00:19:14,242] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2026-04-27 00:19:14,242] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2026-04-27 00:19:14,242] [32mVelocity: 50[0m
+[Unknown         - 2026-04-27 00:19:14,244] [32mThermal Camera Power: Off[0m
+[Unknown         - 2026-04-27 00:19:14,244] [32mFiring Rate: 700[0m
+[Unknown         - 2026-04-27 00:19:14,244] [32mNumber of Rounds: 0[0m
+[Unknown         - 2026-04-27 00:19:14,244] [32mFire on Move: Off[0m
+[Unknown         - 2026-04-27 00:19:14,244] [32mMils Value: 1.0[0m
+[Unknown         - 2026-04-27 00:19:14,244] [32mTracking Kp: 3.2[0m
+[Unknown         - 2026-04-27 00:19:14,244] [32mTracking Ki: 0.7[0m
+[Unknown         - 2026-04-27 00:19:14,246] [32mTracking Kd: 0.0[0m
+[Unknown         - 2026-04-27 00:19:14,246] [32mRadar IP: 10.1.0.245[0m
+[Unknown         - 2026-04-27 00:19:14,246] [32mRadar Port: 9010[0m
+[Unknown         - 2026-04-27 00:19:14,246] [32mLatitude: 34.1523[0m
+[Unknown         - 2026-04-27 00:19:14,246] [32mLongitude: 77.577[0m
+[Unknown         - 2026-04-27 00:19:14,246] [32mAltitude: 0.0[0m
+[Unknown         - 2026-04-27 00:19:14,246] [32mInitialized default taboo values[0m
+[Unknown         - 2026-04-27 00:19:14,246] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2026-04-27 00:19:14,247] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2026-04-27 00:19:14,247] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2026-04-27 00:19:17,164] [32mLogged in[0m
+[ADMIN           - 2026-04-27 00:19:17,164] [32mTilt direction set to 1 for system type NSVT[0m
+[ADMIN           - 2026-04-27 00:19:17,166] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2026-04-27 00:19:17,176] [32mSystem parameters set for NSVT: PAN limits [-180, 180], TILT limits [75, -7][0m
+[ADMIN           - 2026-04-27 00:19:20,103] [35m(-180, 180, -7, 75)[0m
+[ADMIN           - 2026-04-27 00:21:30,380] [32mCASTLE listener stopped[0m

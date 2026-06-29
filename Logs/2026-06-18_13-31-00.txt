@@ -1,0 +1,35 @@
+[Unknown         - 2026-06-18 13:31:00,858] [32mConfiguration loaded[0m
+[Unknown         - 2026-06-18 13:31:00,858] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2026-06-18 13:31:00,859] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2026-06-18 13:31:00,859] [32mWind Direction: 0[0m
+[Unknown         - 2026-06-18 13:31:00,859] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2026-06-18 13:31:00,859] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2026-06-18 13:31:00,859] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2026-06-18 13:31:00,859] [32mVelocity: 50[0m
+[Unknown         - 2026-06-18 13:31:00,859] [32mThermal Camera Power: Off[0m
+[Unknown         - 2026-06-18 13:31:00,861] [32mFiring Rate: 700[0m
+[Unknown         - 2026-06-18 13:31:00,861] [32mNumber of Rounds: 0[0m
+[Unknown         - 2026-06-18 13:31:00,861] [32mFire on Move: Off[0m
+[Unknown         - 2026-06-18 13:31:00,861] [32mMils Value: 1.0[0m
+[Unknown         - 2026-06-18 13:31:00,861] [32mTracking Kp: 3.2[0m
+[Unknown         - 2026-06-18 13:31:00,861] [32mTracking Ki: 0.7[0m
+[Unknown         - 2026-06-18 13:31:00,862] [32mTracking Kd: 0.0[0m
+[Unknown         - 2026-06-18 13:31:00,862] [32mRadar IP: 10.1.0.245[0m
+[Unknown         - 2026-06-18 13:31:00,862] [32mRadar Port: 9010[0m
+[Unknown         - 2026-06-18 13:31:00,862] [32mLatitude: 34.1523[0m
+[Unknown         - 2026-06-18 13:31:00,862] [32mLongitude: 77.577[0m
+[Unknown         - 2026-06-18 13:31:00,862] [32mAltitude: 0.0[0m
+[Unknown         - 2026-06-18 13:31:00,862] [32mInitialized default taboo values[0m
+[Unknown         - 2026-06-18 13:31:00,864] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2026-06-18 13:31:00,864] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2026-06-18 13:31:00,864] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2026-06-18 13:31:04,559] [32mLogged in[0m
+[ADMIN           - 2026-06-18 13:31:04,559] [32mTilt direction set to 1 for system type NSVT[0m
+[ADMIN           - 2026-06-18 13:31:04,562] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2026-06-18 13:31:04,577] [32mSystem parameters set for NSVT: PAN limits [-180, 180], TILT limits [75, -7][0m
+[ADMIN           - 2026-06-18 13:31:04,833] [31m[ ERROR ] Failed to open serial port[0m
+[ADMIN           - 2026-06-18 13:31:06,576] [35m(-180, 180, -7, 75)[0m
+[ADMIN           - 2026-06-18 13:31:08,267] [34m window is clicked[0m
+[ADMIN           - 2026-06-18 13:31:13,238] [34m window is clicked[0m
+[ADMIN           - 2026-06-18 13:31:16,790] [34m window is clicked[0m
+[ADMIN           - 2026-06-18 13:33:02,757] [32mCASTLE listener stopped[0m

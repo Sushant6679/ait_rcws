@@ -1,0 +1,86 @@
+[Unknown         - 2025-10-14 11:43:34,204] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-14 11:43:34,205] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-14 11:43:34,205] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-14 11:43:34,205] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-14 11:43:34,206] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-14 11:43:34,206] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-14 11:43:34,207] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-14 11:43:34,207] [32mVelocity: 50[0m
+[Unknown         - 2025-10-14 11:43:34,271] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-14 11:43:34,271] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-14 11:43:34,272] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-14 11:43:34,272] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-14 11:43:34,273] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-14 11:43:34,273] [32mTracking Kp: 4.2[0m
+[Unknown         - 2025-10-14 11:43:34,273] [32mTracking Ki: 1.9[0m
+[Unknown         - 2025-10-14 11:43:34,274] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-14 11:43:34,274] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-14 11:43:34,275] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-14 11:43:34,275] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-14 11:43:42,671] [32mLogged in[0m
+[ADMIN           - 2025-10-14 11:43:42,672] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-14 11:43:42,675] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-14 11:43:42,759] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-14 11:43:46,084] [35m(-180, 180, -10, 45)[0m
+[ADMIN           - 2025-10-14 11:43:47,706] [35mStatus ARMED[0m
+[ADMIN           - 2025-10-14 11:43:47,706] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2025-10-14 11:43:51,342] [35mTrigger pressed at Azimuth 0.0054931640625, Elevation -0.0020599365234375[0m
+[ADMIN           - 2025-10-14 11:43:51,352] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:43:53,384] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:43:54,747] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 11:44:07,935] [35mTrigger pressed at Azimuth 0.006866455078125, Elevation -0.0020599365234375[0m
+[ADMIN           - 2025-10-14 11:44:07,959] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:44:12,400] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:44:12,555] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 11:44:26,097] [35mTrigger pressed at Azimuth 0.0054931640625, Elevation -0.00274658203125[0m
+[ADMIN           - 2025-10-14 11:44:26,156] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:44:30,953] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:44:31,150] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 11:44:55,273] [35mTrigger pressed at Azimuth 0.0089263916015625, Elevation -0.0020599365234375[0m
+[ADMIN           - 2025-10-14 11:44:55,356] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:45:01,033] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:45:01,154] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 11:45:04,578] [35mStatus UNARMED[0m
+[ADMIN           - 2025-10-14 11:45:04,579] [35mUnarmed at Azimuth 0.0054931640625, Elevation -0.00274658203125[0m
+[ADMIN           - 2025-10-14 11:45:06,829] [35mStatus ARMED[0m
+[ADMIN           - 2025-10-14 11:45:06,829] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2025-10-14 11:45:22,289] [35mTrigger pressed at Azimuth 0.0089263916015625, Elevation -0.00274658203125[0m
+[ADMIN           - 2025-10-14 11:45:22,364] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:45:25,409] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:45:25,575] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 11:45:29,320] [35mStatus UNARMED[0m
+[ADMIN           - 2025-10-14 11:45:29,320] [35mUnarmed at Azimuth 0.0075531005859375, Elevation -0.00274658203125[0m
+[ADMIN           - 2025-10-14 11:46:12,783] [35mStatus ARMED[0m
+[ADMIN           - 2025-10-14 11:46:12,784] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2025-10-14 11:46:17,307] [35mTrigger pressed at Azimuth 0.0089263916015625, Elevation -0.00274658203125[0m
+[ADMIN           - 2025-10-14 11:46:17,371] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:46:20,683] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:46:20,770] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 11:46:24,364] [35mStatus UNARMED[0m
+[ADMIN           - 2025-10-14 11:46:24,366] [35mUnarmed at Azimuth 0.009613037109375, Elevation -0.00274658203125[0m
+[ADMIN           - 2025-10-14 11:46:33,117] [35mStatus ARMED[0m
+[ADMIN           - 2025-10-14 11:46:33,117] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2025-10-14 11:46:37,244] [35mTrigger pressed at Azimuth -1.6829681396484375, Elevation -0.0034332275390625[0m
+[ADMIN           - 2025-10-14 11:46:37,395] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:46:39,701] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:46:39,807] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 11:46:55,644] [35mTrigger pressed at Azimuth -1.682281494140625, Elevation -0.00274658203125[0m
+[ADMIN           - 2025-10-14 11:46:55,799] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:46:58,380] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:46:58,596] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 11:47:15,983] [35mTrigger pressed at Azimuth -1.6829681396484375, Elevation -0.00274658203125[0m
+[ADMIN           - 2025-10-14 11:47:16,021] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:47:21,021] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:47:21,602] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 11:47:39,782] [35mTrigger pressed at Azimuth -1.6815948486328125, Elevation -0.0020599365234375[0m
+[ADMIN           - 2025-10-14 11:47:39,806] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:47:44,445] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:47:44,581] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:47:44,982] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 11:47:45,208] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 11:47:51,933] [35mStatus UNARMED[0m
+[ADMIN           - 2025-10-14 11:47:51,933] [35mUnarmed at Azimuth -1.68365478515625, Elevation -0.00274658203125[0m
+[ADMIN           - 2025-10-14 11:47:55,708] [32mMoving Gun to (0, 0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-14 11:47:55,709] [32mSending adjusted values to controller: (0, 0)[0m
+[ADMIN           - 2025-10-14 11:47:56,384] [33mGun not at zero position. Current position: Azimuth -1.687774658203125, Elevation -0.00274658203125[0m
+[ADMIN           - 2025-10-14 11:49:25,290] [32mCASTLE listener stopped[0m

@@ -1,0 +1,56 @@
+* {
+    text-transform: uppercase;
+}
+QWidget {
+    color: white;
+    background-color: #A4AA88; /* Dark olive green */
+}
+
+QLineEdit{
+    border: 2px solid #2B411C;
+    border-radius: 5px;
+    background: black;
+    color:white;
+    text-align: right;
+    padding: 2px 0px;
+    font-size:14px;
+}
+
+QLabel{
+    color: white;
+    font-size: 14px;
+}
+
+
+QWidget:item:hover {
+    background-color: QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #556B2F, stop: 1 #CA9619); /* Gradient with olive green */
+    color: #000000;
+}
+
+QWidget:item:selected {
+    background-color: QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #556B2F, stop: 1 #D7A81A); /* Gradient with darker olive green */
+}
+
+QPushButton, QToolButton, LongPressButton {
+    color: white;
+    background-color: #2B411C;
+    border-width: 2px;
+    border-color: #1e1e1e;
+    border-style: solid;
+    border-radius: 6;
+    padding: 3px;
+    font-size: 14px;
+    padding-left: 5px;
+    padding-right: 5px;
+    min-width: 40px;
+}
+
+
+QPushButton:pressed, QToolButton:pressed, LongPressButton:pressed {
+    background-color: QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #2D4F2F, stop: 0.1 #2B4F2F, stop: 0.5 #294F2F, stop: 0.9 #284F2F, stop: 1 #254F2F); /* Darker gradient when pressed */
+}
+
+#hLayoutgun {
+   background: red;
+   padding: 10px;
+}

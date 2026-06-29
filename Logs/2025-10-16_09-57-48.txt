@@ -1,0 +1,33 @@
+[Unknown         - 2025-10-16 09:57:49,422] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-16 09:57:49,423] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-16 09:57:49,423] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-16 09:57:49,424] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-16 09:57:49,424] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-16 09:57:49,424] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-16 09:57:49,426] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-16 09:57:49,427] [32mVelocity: 50[0m
+[Unknown         - 2025-10-16 09:57:49,491] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-16 09:57:49,492] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-16 09:57:49,493] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-16 09:57:49,493] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-16 09:57:49,494] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-16 09:57:49,495] [32mTracking Kp: 3.2[0m
+[Unknown         - 2025-10-16 09:57:49,495] [32mTracking Ki: 0.7[0m
+[Unknown         - 2025-10-16 09:57:49,496] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-16 09:57:49,496] [32mRadar IP: 10.1.0.245[0m
+[Unknown         - 2025-10-16 09:57:49,497] [32mRadar Port: 9010[0m
+[Unknown         - 2025-10-16 09:57:49,498] [32mLatitude: 34.1523[0m
+[Unknown         - 2025-10-16 09:57:49,498] [32mLongitude: 77.577[0m
+[Unknown         - 2025-10-16 09:57:49,501] [32mAltitude: 0.0[0m
+[Unknown         - 2025-10-16 09:57:49,503] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-16 09:57:49,503] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-16 09:57:49,504] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2025-10-16 09:57:49,504] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-16 09:57:56,391] [32mLogged in[0m
+[ADMIN           - 2025-10-16 09:57:56,393] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-16 09:57:56,396] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-16 09:57:56,421] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-16 09:58:00,089] [35m(-180, 180, -10, 45)[0m
+[ADMIN           - 2025-10-16 09:58:13,031] [32mMoving Gun to (0, 0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 09:58:13,031] [32mSending adjusted values to controller: (0, 0)[0m
+[ADMIN           - 2025-10-16 09:58:25,740] [32mCASTLE listener stopped[0m

@@ -1,0 +1,89 @@
+[Unknown         - 2026-06-29 18:40:00,096] [32mConfiguration loaded[0m
+[Unknown         - 2026-06-29 18:40:00,096] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2026-06-29 18:40:00,096] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2026-06-29 18:40:00,096] [32mWind Direction: 0[0m
+[Unknown         - 2026-06-29 18:40:00,096] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2026-06-29 18:40:00,096] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2026-06-29 18:40:00,098] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2026-06-29 18:40:00,098] [32mVelocity: 50[0m
+[Unknown         - 2026-06-29 18:40:00,098] [32mThermal Camera Power: Off[0m
+[Unknown         - 2026-06-29 18:40:00,098] [32mFiring Rate: 700[0m
+[Unknown         - 2026-06-29 18:40:00,098] [32mNumber of Rounds: 0[0m
+[Unknown         - 2026-06-29 18:40:00,099] [32mFire on Move: Off[0m
+[Unknown         - 2026-06-29 18:40:00,099] [32mMils Value: 1.0[0m
+[Unknown         - 2026-06-29 18:40:00,099] [32mTracking Kp: 3.2[0m
+[Unknown         - 2026-06-29 18:40:00,099] [32mTracking Ki: 0.7[0m
+[Unknown         - 2026-06-29 18:40:00,099] [32mTracking Kd: 0.0[0m
+[Unknown         - 2026-06-29 18:40:00,099] [32mRadar IP: 10.1.0.245[0m
+[Unknown         - 2026-06-29 18:40:00,099] [32mRadar Port: 9010[0m
+[Unknown         - 2026-06-29 18:40:00,099] [32mLatitude: 34.1523[0m
+[Unknown         - 2026-06-29 18:40:00,099] [32mLongitude: 77.577[0m
+[Unknown         - 2026-06-29 18:40:00,100] [32mAltitude: 0.0[0m
+[Unknown         - 2026-06-29 18:40:00,100] [32mInitialized default taboo values[0m
+[Unknown         - 2026-06-29 18:40:00,100] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2026-06-29 18:40:00,100] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2026-06-29 18:40:00,100] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2026-06-29 18:40:02,298] [32mLogged in[0m
+[ADMIN           - 2026-06-29 18:40:02,298] [32mTilt direction set to 1 for system type NSVT[0m
+[ADMIN           - 2026-06-29 18:40:02,299] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2026-06-29 18:40:02,312] [32mSystem parameters set for NSVT: PAN limits [-180, 180], TILT limits [75, -7][0m
+[ADMIN           - 2026-06-29 18:40:05,317] [35m(-180, 180, -7, 75)[0m
+[ADMIN           - 2026-06-29 18:40:10,316] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:40:10,316] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:40:11,476] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:40:11,476] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:40:52,642] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:40:52,642] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:40:53,891] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:40:53,891] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:40:55,092] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:40:55,093] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:40:56,306] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:40:56,306] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:40:57,508] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:40:57,508] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:40:58,703] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:40:58,703] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:40:59,918] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:40:59,918] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:41:01,115] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:41:01,115] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:41:02,331] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:41:02,331] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:41:03,529] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:41:03,530] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:41:04,728] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:41:04,729] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:41:05,939] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:41:05,939] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:41:07,142] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:41:07,143] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:41:08,342] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:41:08,342] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:41:09,561] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:41:09,561] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:41:10,755] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:41:10,756] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:41:11,956] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:41:11,956] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:41:13,171] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:41:13,172] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:41:14,371] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:41:14,372] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:41:15,582] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:41:15,582] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:41:16,784] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:41:16,784] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:41:17,982] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:41:17,983] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:41:20,942] [35mStatus ARMED[0m
+[ADMIN           - 2026-06-29 18:41:20,944] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2026-06-29 18:41:22,875] [35mStatus UNARMED[0m
+[ADMIN           - 2026-06-29 18:41:22,875] [35mUnarmed at Azimuth 0, Elevation 0[0m
+[ADMIN           - 2026-06-29 18:41:40,670] [32mRequesting initial diagnostics data[0m
+[ADMIN           - 2026-06-29 18:41:46,103] [32mDiagnostics timer started - updating every 5 seconds[0m
+[ADMIN           - 2026-06-29 18:41:46,104] [32mRequesting initial diagnostics data after Diagnose button click[0m
+[ADMIN           - 2026-06-29 18:41:51,634] [32mRequesting updated diagnostics data (timer-based update)[0m
+[ADMIN           - 2026-06-29 18:41:57,245] [32mRequesting initial diagnostics data after Diagnose button click[0m
+[ADMIN           - 2026-06-29 18:42:02,894] [32mRequesting initial diagnostics data after Diagnose button click[0m
+[ADMIN           - 2026-06-29 18:42:08,857] [32mRequesting initial diagnostics data after Diagnose button click[0m

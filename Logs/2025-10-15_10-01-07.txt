@@ -1,0 +1,29 @@
+[Unknown         - 2025-10-15 10:01:08,306] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-15 10:01:08,306] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-15 10:01:08,307] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-15 10:01:08,307] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-15 10:01:08,307] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-15 10:01:08,307] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-15 10:01:08,307] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-15 10:01:08,307] [32mVelocity: 50[0m
+[Unknown         - 2025-10-15 10:01:08,308] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-15 10:01:08,308] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-15 10:01:08,308] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-15 10:01:08,308] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-15 10:01:08,308] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-15 10:01:08,308] [32mTracking Kp: 3.2[0m
+[Unknown         - 2025-10-15 10:01:08,309] [32mTracking Ki: 0.7[0m
+[Unknown         - 2025-10-15 10:01:08,309] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-15 10:01:08,309] [32mRadar IP: 10.1.0.245[0m
+[Unknown         - 2025-10-15 10:01:08,309] [32mRadar Port: 9010[0m
+[Unknown         - 2025-10-15 10:01:08,309] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-15 10:01:08,309] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-15 10:01:08,310] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2025-10-15 10:01:08,310] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-15 10:01:10,695] [32mLogged in[0m
+[ADMIN           - 2025-10-15 10:01:10,695] [32mTilt direction set to 1 for system type NSVT[0m
+[ADMIN           - 2025-10-15 10:01:10,697] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-15 10:01:10,707] [32mSystem parameters set for NSVT: PAN limits [-180, 180], TILT limits [75, -7][0m
+[ADMIN           - 2025-10-15 10:01:15,873] [31m[ ERROR ] Failed to open serial port[0m
+[ADMIN           - 2025-10-15 10:02:05,322] [35m(-180, 180, -7, 75)[0m
+[ADMIN           - 2025-10-15 10:02:18,425] [32mCASTLE listener stopped[0m

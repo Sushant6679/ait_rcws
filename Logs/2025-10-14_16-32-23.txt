@@ -1,0 +1,53 @@
+[Unknown         - 2025-10-14 16:32:23,634] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-14 16:32:23,634] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-14 16:32:23,635] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-14 16:32:23,635] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-14 16:32:23,636] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-14 16:32:23,636] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-14 16:32:23,636] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-14 16:32:23,637] [32mVelocity: 50[0m
+[Unknown         - 2025-10-14 16:32:23,638] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-14 16:32:23,638] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-14 16:32:23,638] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-14 16:32:23,639] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-14 16:32:23,639] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-14 16:32:23,639] [32mTracking Kp: 4.2[0m
+[Unknown         - 2025-10-14 16:32:23,641] [32mTracking Ki: 1.9[0m
+[Unknown         - 2025-10-14 16:32:23,641] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-14 16:32:23,641] [32mRadar IP: 10.1.0.250[0m
+[Unknown         - 2025-10-14 16:32:23,641] [32mRadar Port: 9011[0m
+[Unknown         - 2025-10-14 16:32:23,641] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-14 16:32:23,641] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-14 16:32:23,642] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-14 16:32:34,141] [32mLogged in[0m
+[ADMIN           - 2025-10-14 16:32:34,169] [32mTilt direction set to 1 for system type NSVT[0m
+[ADMIN           - 2025-10-14 16:32:34,186] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-14 16:32:34,234] [32mSystem parameters set for NSVT: PAN limits [-180, 180], TILT limits [75, -7][0m
+[ADMIN           - 2025-10-14 16:32:42,509] [35m(-180, 180, -7, 75)[0m
+[ADMIN           - 2025-10-14 16:33:07,550] [32mRequesting initial diagnostics data[0m
+[ADMIN           - 2025-10-14 16:33:08,241] [32mDiagnostics timer started - updating every 5 seconds[0m
+[ADMIN           - 2025-10-14 16:33:08,242] [32mRequesting initial diagnostics data after Diagnose button click[0m
+[ADMIN           - 2025-10-14 16:33:12,682] [32mDiagnostics timer explicitly stopped[0m
+[ADMIN           - 2025-10-14 16:33:18,818] [32mRequesting initial diagnostics data[0m
+[ADMIN           - 2025-10-14 16:33:19,436] [32mDiagnostics timer started - updating every 5 seconds[0m
+[ADMIN           - 2025-10-14 16:33:19,437] [32mRequesting initial diagnostics data after Diagnose button click[0m
+[ADMIN           - 2025-10-14 16:33:22,030] [32mDiagnostics timer explicitly stopped[0m
+[ADMIN           - 2025-10-14 16:33:26,731] [35mStatus ARMED[0m
+[ADMIN           - 2025-10-14 16:33:26,732] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2025-10-14 16:33:27,819] [35mStatus UNARMED[0m
+[ADMIN           - 2025-10-14 16:33:27,820] [35mUnarmed at Azimuth -31.5032958984375, Elevation -23.122787475585938[0m
+[ADMIN           - 2025-10-14 16:33:29,889] [32mRequesting initial diagnostics data[0m
+[ADMIN           - 2025-10-14 16:33:30,483] [32mDiagnostics timer started - updating every 5 seconds[0m
+[ADMIN           - 2025-10-14 16:33:30,545] [32mRequesting initial diagnostics data after Diagnose button click[0m
+[ADMIN           - 2025-10-14 16:33:32,421] [32mDiagnostics timer explicitly stopped[0m
+[ADMIN           - 2025-10-14 16:33:56,067] [35mStatus ARMED[0m
+[ADMIN           - 2025-10-14 16:33:56,068] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2025-10-14 16:33:56,739] [35mStatus UNARMED[0m
+[ADMIN           - 2025-10-14 16:33:56,741] [35mUnarmed at Azimuth -31.506729125976562, Elevation -23.871231079101562[0m
+[ADMIN           - 2025-10-14 16:34:16,733] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 16:34:16,815] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 16:34:23,231] [35mStatus ARMED[0m
+[ADMIN           - 2025-10-14 16:34:23,232] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2025-10-14 16:34:24,235] [35mStatus UNARMED[0m
+[ADMIN           - 2025-10-14 16:34:24,236] [35mUnarmed at Azimuth -2.335968017578125, Elevation -27.53173828125[0m
+[ADMIN           - 2025-10-14 16:36:31,281] [32mCASTLE listener stopped[0m

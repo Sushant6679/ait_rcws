@@ -1,0 +1,37 @@
+[Unknown         - 2025-10-15 13:13:33,910] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-15 13:13:33,910] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-15 13:13:33,912] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-15 13:13:33,912] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-15 13:13:33,912] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-15 13:13:33,912] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-15 13:13:33,913] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-15 13:13:33,913] [32mVelocity: 50[0m
+[Unknown         - 2025-10-15 13:13:33,977] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-15 13:13:33,977] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-15 13:13:33,977] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-15 13:13:33,978] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-15 13:13:33,978] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-15 13:13:33,978] [32mTracking Kp: 3.2[0m
+[Unknown         - 2025-10-15 13:13:33,979] [32mTracking Ki: 0.7[0m
+[Unknown         - 2025-10-15 13:13:33,979] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-15 13:13:33,979] [32mRadar IP: 10.1.0.245[0m
+[Unknown         - 2025-10-15 13:13:33,980] [32mRadar Port: 9010[0m
+[Unknown         - 2025-10-15 13:13:33,980] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-15 13:13:33,980] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-15 13:13:33,980] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2025-10-15 13:13:33,980] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-15 13:14:01,452] [32mLogged in[0m
+[ADMIN           - 2025-10-15 13:14:01,453] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-15 13:14:01,454] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-15 13:14:01,485] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-15 13:14:04,679] [35m(-180, 180, -10, 45)[0m
+[ADMIN           - 2025-10-15 13:14:06,672] [32mRequesting initial diagnostics data[0m
+[ADMIN           - 2025-10-15 13:14:07,239] [32mDiagnostics timer started - updating every 5 seconds[0m
+[ADMIN           - 2025-10-15 13:14:07,240] [32mRequesting initial diagnostics data after Diagnose button click[0m
+[ADMIN           - 2025-10-15 13:14:12,239] [32mRequesting updated diagnostics data (timer-based update)[0m
+[ADMIN           - 2025-10-15 13:14:17,240] [32mRequesting updated diagnostics data (timer-based update)[0m
+[ADMIN           - 2025-10-15 13:14:22,239] [32mRequesting updated diagnostics data (timer-based update)[0m
+[ADMIN           - 2025-10-15 13:14:27,239] [32mRequesting updated diagnostics data (timer-based update)[0m
+[ADMIN           - 2025-10-15 13:14:32,239] [32mRequesting updated diagnostics data (timer-based update)[0m
+[ADMIN           - 2025-10-15 13:14:32,855] [32mDiagnostics timer explicitly stopped[0m
+[ADMIN           - 2025-10-15 13:14:36,764] [32mCASTLE listener stopped[0m

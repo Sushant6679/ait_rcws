@@ -1,0 +1,24 @@
+[Unknown         - 2025-10-14 11:49:34,989] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-14 11:49:34,990] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-14 11:49:34,991] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-14 11:49:34,991] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-14 11:49:34,992] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-14 11:49:34,992] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-14 11:49:34,992] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-14 11:49:34,992] [32mVelocity: 50[0m
+[Unknown         - 2025-10-14 11:49:35,057] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-14 11:49:35,057] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-14 11:49:35,057] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-14 11:49:35,058] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-14 11:49:35,058] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-14 11:49:35,059] [32mTracking Kp: 4.2[0m
+[Unknown         - 2025-10-14 11:49:35,059] [32mTracking Ki: 1.9[0m
+[Unknown         - 2025-10-14 11:49:35,060] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-14 11:49:35,060] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-14 11:49:35,061] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-14 11:49:35,061] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-14 11:49:39,336] [32mLogged in[0m
+[ADMIN           - 2025-10-14 11:49:39,337] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-14 11:49:39,339] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-14 11:49:39,428] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-14 11:49:45,606] [35m(-180, 180, -10, 45)[0m

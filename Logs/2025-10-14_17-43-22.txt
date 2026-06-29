@@ -1,0 +1,48 @@
+[Unknown         - 2025-10-14 17:43:23,783] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-14 17:43:23,785] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-14 17:43:23,785] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-14 17:43:23,786] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-14 17:43:23,786] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-14 17:43:23,787] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-14 17:43:23,787] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-14 17:43:23,788] [32mVelocity: 50[0m
+[Unknown         - 2025-10-14 17:43:23,852] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-14 17:43:23,853] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-14 17:43:23,854] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-14 17:43:23,854] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-14 17:43:23,855] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-14 17:43:23,855] [32mTracking Kp: 4.2[0m
+[Unknown         - 2025-10-14 17:43:23,856] [32mTracking Ki: 2.3[0m
+[Unknown         - 2025-10-14 17:43:23,856] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-14 17:43:23,856] [32mRadar IP: 10.1.0.250[0m
+[Unknown         - 2025-10-14 17:43:23,857] [32mRadar Port: 9011[0m
+[Unknown         - 2025-10-14 17:43:23,857] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-14 17:43:23,859] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-14 17:43:23,859] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-14 17:43:28,315] [32mLogged in[0m
+[ADMIN           - 2025-10-14 17:43:28,316] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-14 17:43:28,319] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-14 17:43:28,411] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-14 17:43:35,085] [35m(-180, 180, -10, 45)[0m
+[ADMIN           - 2025-10-14 17:43:52,085] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 17:43:52,173] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 17:43:57,070] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 17:43:57,178] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 17:44:11,297] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 17:44:11,519] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 17:44:21,423] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 17:44:21,642] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 17:44:31,763] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 17:44:31,991] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 17:44:41,970] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 17:44:42,193] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 17:46:00,034] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 17:46:00,110] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 17:46:20,747] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 17:46:20,853] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 17:47:49,258] [34m window is clicked[0m
+[ADMIN           - 2025-10-14 17:47:49,366] [35mSelected track for CAMERA[0m
+[ADMIN           - 2025-10-14 17:48:10,732] [32mMoving Gun to (0, 0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-14 17:48:10,733] [32mSending adjusted values to controller: (0, 0)[0m
+[ADMIN           - 2025-10-14 17:48:11,492] [33mGun not at zero position. Current position: Azimuth 20.560226440429688, Elevation 0.0803375244140625[0m
+[ADMIN           - 2025-10-14 17:48:19,861] [32mCASTLE listener stopped[0m

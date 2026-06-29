@@ -1,0 +1,7 @@
+C:/Users/vinay/Documents/AIT/RCWS UI/RCWS_UI/Tinyframe/build/CMakeFiles/tinyframe_python.dir
+C:/Users/vinay/Documents/AIT/RCWS UI/RCWS_UI/Tinyframe/build/CMakeFiles/edit_cache.dir
+C:/Users/vinay/Documents/AIT/RCWS UI/RCWS_UI/Tinyframe/build/CMakeFiles/rebuild_cache.dir
+C:/Users/vinay/Documents/AIT/RCWS UI/RCWS_UI/Tinyframe/build/CMakeFiles/list_install_components.dir
+C:/Users/vinay/Documents/AIT/RCWS UI/RCWS_UI/Tinyframe/build/CMakeFiles/install.dir
+C:/Users/vinay/Documents/AIT/RCWS UI/RCWS_UI/Tinyframe/build/CMakeFiles/install/local.dir
+C:/Users/vinay/Documents/AIT/RCWS UI/RCWS_UI/Tinyframe/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,484 @@
+[Unknown         - 2025-10-16 16:54:26,802] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-16 16:54:26,802] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-16 16:54:26,802] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-16 16:54:26,804] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-16 16:54:26,804] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-16 16:54:26,804] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-16 16:54:26,805] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-16 16:54:26,805] [32mVelocity: 50[0m
+[Unknown         - 2025-10-16 16:54:26,868] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-16 16:54:26,868] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-16 16:54:26,869] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-16 16:54:26,869] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-16 16:54:26,869] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-16 16:54:26,869] [32mTracking Kp: 3.2[0m
+[Unknown         - 2025-10-16 16:54:26,871] [32mTracking Ki: 0.7[0m
+[Unknown         - 2025-10-16 16:54:26,871] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-16 16:54:26,871] [32mRadar IP: 10.1.0.245[0m
+[Unknown         - 2025-10-16 16:54:26,871] [32mRadar Port: 9010[0m
+[Unknown         - 2025-10-16 16:54:26,872] [32mLatitude: 34.1523[0m
+[Unknown         - 2025-10-16 16:54:26,872] [32mLongitude: 77.577[0m
+[Unknown         - 2025-10-16 16:54:26,872] [32mAltitude: 0.0[0m
+[Unknown         - 2025-10-16 16:54:26,873] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-16 16:54:26,873] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-16 16:54:26,874] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2025-10-16 16:54:26,874] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-16 16:54:30,733] [32mLogged in[0m
+[ADMIN           - 2025-10-16 16:54:30,734] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-16 16:54:30,737] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-16 16:54:30,766] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-16 16:54:34,151] [35m(-180, 180, -10, 45)[0m
+[ADMIN           - 2025-10-16 16:55:12,262] [32mConfiguration loaded[0m
+[ADMIN           - 2025-10-16 16:55:12,263] [32mWind Speed Mode: Manual[0m
+[ADMIN           - 2025-10-16 16:55:12,263] [32mManual Wind Speed set to: 0.0[0m
+[ADMIN           - 2025-10-16 16:55:12,264] [32mWind Direction: 0[0m
+[ADMIN           - 2025-10-16 16:55:12,264] [32mLRF Firing Enabled: False[0m
+[ADMIN           - 2025-10-16 16:55:12,264] [32mDefault LRF Distance: 1000[0m
+[ADMIN           - 2025-10-16 16:55:12,265] [32mTrack Mode: Manual ground tracking[0m
+[ADMIN           - 2025-10-16 16:55:12,265] [32mVelocity: 50[0m
+[ADMIN           - 2025-10-16 16:55:12,265] [32mThermal Camera Power: Off[0m
+[ADMIN           - 2025-10-16 16:55:12,266] [32mFiring Rate: 700[0m
+[ADMIN           - 2025-10-16 16:55:12,266] [32mNumber of Rounds: 0[0m
+[ADMIN           - 2025-10-16 16:55:12,267] [32mFire on Move: Off[0m
+[ADMIN           - 2025-10-16 16:55:12,267] [32mMils Value: 1.0[0m
+[ADMIN           - 2025-10-16 16:55:12,267] [32mTracking Kp: 3.2[0m
+[ADMIN           - 2025-10-16 16:55:12,268] [32mTracking Ki: 0.7[0m
+[ADMIN           - 2025-10-16 16:55:12,268] [32mTracking Kd: 0.0[0m
+[ADMIN           - 2025-10-16 16:55:12,268] [32mRadar IP: 10.1.0.245[0m
+[ADMIN           - 2025-10-16 16:55:12,269] [32mRadar Port: 9010[0m
+[ADMIN           - 2025-10-16 16:55:12,269] [32mLatitude: 34.1523[0m
+[ADMIN           - 2025-10-16 16:55:12,269] [32mLongitude: 77.577[0m
+[ADMIN           - 2025-10-16 16:55:12,270] [32mAltitude: 0.0[0m
+[ADMIN           - 2025-10-16 16:55:12,270] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [-10, 45][0m
+[ADMIN           - 2025-10-16 16:55:12,271] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-16 16:55:12,271] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-16 16:55:12,401] [32mReloading configuration...[0m
+[ADMIN           - 2025-10-16 16:55:12,415] [32mConfiguration loaded[0m
+[ADMIN           - 2025-10-16 16:55:12,415] [32mWind Speed Mode: Manual[0m
+[ADMIN           - 2025-10-16 16:55:12,415] [32mManual Wind Speed set to: 0.0[0m
+[ADMIN           - 2025-10-16 16:55:12,416] [32mWind Direction: 0[0m
+[ADMIN           - 2025-10-16 16:55:12,416] [32mLRF Firing Enabled: False[0m
+[ADMIN           - 2025-10-16 16:55:12,416] [32mDefault LRF Distance: 1000[0m
+[ADMIN           - 2025-10-16 16:55:12,417] [32mTrack Mode: Manual ground tracking[0m
+[ADMIN           - 2025-10-16 16:55:12,417] [32mVelocity: 5[0m
+[ADMIN           - 2025-10-16 16:55:12,417] [32mThermal Camera Power: Off[0m
+[ADMIN           - 2025-10-16 16:55:12,417] [32mFiring Rate: 700[0m
+[ADMIN           - 2025-10-16 16:55:12,417] [32mNumber of Rounds: 0[0m
+[ADMIN           - 2025-10-16 16:55:12,419] [32mFire on Move: Off[0m
+[ADMIN           - 2025-10-16 16:55:12,419] [32mMils Value: 1.0[0m
+[ADMIN           - 2025-10-16 16:55:12,419] [32mTracking Kp: 3.2[0m
+[ADMIN           - 2025-10-16 16:55:12,419] [32mTracking Ki: 0.7[0m
+[ADMIN           - 2025-10-16 16:55:12,419] [32mTracking Kd: 0.0[0m
+[ADMIN           - 2025-10-16 16:55:12,419] [32mRadar IP: 10.1.0.245[0m
+[ADMIN           - 2025-10-16 16:55:12,420] [32mRadar Port: 9010[0m
+[ADMIN           - 2025-10-16 16:55:12,420] [32mLatitude: 34.1523[0m
+[ADMIN           - 2025-10-16 16:55:12,420] [32mLongitude: 77.577[0m
+[ADMIN           - 2025-10-16 16:55:12,420] [32mAltitude: 0.0[0m
+[ADMIN           - 2025-10-16 16:55:12,421] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [-10, 45][0m
+[ADMIN           - 2025-10-16 16:55:12,421] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-16 16:55:12,421] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[ADMIN           - 2025-10-16 16:55:12,476] [32mApplication state updated. Wind speed mode: Manual, Manual wind speed: 0.0[0m
+[ADMIN           - 2025-10-16 16:55:12,478] [32mTaboo zone is disabled, setting system-specific limits for tilt and extreme limits for pan[0m
+[ADMIN           - 2025-10-16 16:55:12,479] [32mSetting tilt limits to system defaults: [-10°, 45°] (encoder counts: [-14563, 65536])[0m
+[ADMIN           - 2025-10-16 16:55:12,676] [32mSuccessfully set limits with taboo zone disabled[0m
+[ADMIN           - 2025-10-16 16:55:12,677] [32mConfiguration reloaded, application state updated, and taboo values sent to motors.[0m
+[ADMIN           - 2025-10-16 16:57:38,288] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:38,288] [32mMoving Gun to (-4.508514404296875, -0.6320180695521448) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:38,288] [32mSending adjusted values to controller: (-4.508514404296875, -0.6320180695521448)[0m
+[ADMIN           - 2025-10-16 16:57:38,487] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:39,223] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:39,223] [32mMoving Gun to (-4.5078277587890625, -0.6320180695521448) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:39,224] [32mSending adjusted values to controller: (-4.5078277587890625, -0.6320180695521448)[0m
+[ADMIN           - 2025-10-16 16:57:40,399] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:40,401] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:40,401] [32mMoving Gun to (-4.508514404296875, -0.6903829377162073) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:40,401] [32mSending adjusted values to controller: (-4.508514404296875, -0.6903829377162073)[0m
+[ADMIN           - 2025-10-16 16:57:40,598] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:40,601] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:40,601] [32mMoving Gun to (-4.508514404296875, -0.6924428742396448) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:40,601] [32mSending adjusted values to controller: (-4.508514404296875, -0.6924428742396448)[0m
+[ADMIN           - 2025-10-16 16:57:41,089] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:41,090] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:41,090] [32mMoving Gun to (-4.5092010498046875, -0.7487478058802698) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:41,092] [32mSending adjusted values to controller: (-4.5092010498046875, -0.7487478058802698)[0m
+[ADMIN           - 2025-10-16 16:57:41,288] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:41,448] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:41,454] [32mMoving Gun to (-4.50714111328125, -0.7501210968958948) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:41,456] [32mSending adjusted values to controller: (-4.50714111328125, -0.7501210968958948)[0m
+[ADMIN           - 2025-10-16 16:57:41,775] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:41,848] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:41,848] [32mMoving Gun to (-4.5092010498046875, -0.8043660920130823) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:41,848] [32mSending adjusted values to controller: (-4.5092010498046875, -0.8043660920130823)[0m
+[ADMIN           - 2025-10-16 16:57:42,047] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:42,264] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:42,264] [32mMoving Gun to (-4.5078277587890625, -0.8064260285365198) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:42,264] [32mSending adjusted values to controller: (-4.5078277587890625, -0.8064260285365198)[0m
+[ADMIN           - 2025-10-16 16:57:42,464] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:42,744] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:42,744] [32mMoving Gun to (-4.50714111328125, -0.8654775422083948) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:42,745] [32mSending adjusted values to controller: (-4.50714111328125, -0.8654775422083948)[0m
+[ADMIN           - 2025-10-16 16:57:42,904] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:43,224] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:43,224] [32mMoving Gun to (-4.508514404296875, -0.8641042511927698) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:43,225] [32mSending adjusted values to controller: (-4.508514404296875, -0.8641042511927698)[0m
+[ADMIN           - 2025-10-16 16:57:43,384] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:43,544] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:43,544] [32mMoving Gun to (-4.5078277587890625, -0.9245290558802698) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:43,544] [32mSending adjusted values to controller: (-4.5078277587890625, -0.9245290558802698)[0m
+[ADMIN           - 2025-10-16 16:57:43,756] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:43,871] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:43,872] [32mMoving Gun to (-4.508514404296875, -0.9245290558802698) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:43,872] [32mSending adjusted values to controller: (-4.508514404296875, -0.9245290558802698)[0m
+[ADMIN           - 2025-10-16 16:57:44,112] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:44,448] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:44,448] [32mMoving Gun to (-4.5064544677734375, -0.9863271515833948) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:44,448] [32mSending adjusted values to controller: (-4.5064544677734375, -0.9863271515833948)[0m
+[ADMIN           - 2025-10-16 16:57:44,716] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:44,807] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:44,807] [32mMoving Gun to (-4.5078277587890625, -0.9842672150599573) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:44,809] [32mSending adjusted values to controller: (-4.5078277587890625, -0.9842672150599573)[0m
+[ADMIN           - 2025-10-16 16:57:45,066] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:45,111] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:45,111] [32mMoving Gun to (-4.5105743408203125, -1.03988550119277) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:45,111] [32mSending adjusted values to controller: (-4.5105743408203125, -1.03988550119277)[0m
+[ADMIN           - 2025-10-16 16:57:45,287] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:45,471] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:45,471] [32mMoving Gun to (-4.5078277587890625, -1.041258792208395) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:45,472] [32mSending adjusted values to controller: (-4.5078277587890625, -1.041258792208395)[0m
+[ADMIN           - 2025-10-16 16:57:45,746] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:45,807] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:45,807] [32mMoving Gun to (-4.5092010498046875, -1.098937014864645) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:45,808] [32mSending adjusted values to controller: (-4.5092010498046875, -1.098937014864645)[0m
+[ADMIN           - 2025-10-16 16:57:45,991] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:46,191] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:46,192] [32mMoving Gun to (-4.5078277587890625, -1.101683596895895) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:46,192] [32mSending adjusted values to controller: (-4.5078277587890625, -1.101683596895895)[0m
+[ADMIN           - 2025-10-16 16:57:46,446] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:46,672] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:46,672] [32mMoving Gun to (-4.508514404296875, -1.1573018830287074) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:46,672] [32mSending adjusted values to controller: (-4.508514404296875, -1.1573018830287074)[0m
+[ADMIN           - 2025-10-16 16:57:46,856] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:47,232] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:47,232] [32mMoving Gun to (-4.5098876953125, -1.219786624239645) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:47,232] [32mSending adjusted values to controller: (-4.5098876953125, -1.219786624239645)[0m
+[ADMIN           - 2025-10-16 16:57:47,405] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:47,513] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:57:47,513] [32mMoving Gun to (-4.5092010498046875, -1.21841333322402) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:47,514] [32mSending adjusted values to controller: (-4.5092010498046875, -1.21841333322402)[0m
+[ADMIN           - 2025-10-16 16:57:47,893] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:48,311] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:48,311] [32mMoving Gun to (-4.451905270291605, -1.2201690673828125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:48,313] [32mSending adjusted values to controller: (-4.451905270291605, -1.2201690673828125)[0m
+[ADMIN           - 2025-10-16 16:57:48,512] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:48,951] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:48,952] [32mMoving Gun to (-4.39560033865098, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:48,952] [32mSending adjusted values to controller: (-4.39560033865098, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:57:49,180] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:49,287] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:49,287] [32mMoving Gun to (-4.39560033865098, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:49,287] [32mSending adjusted values to controller: (-4.39560033865098, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:57:49,532] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:49,607] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:49,639] [32mMoving Gun to (-4.33517553396348, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:49,639] [32mSending adjusted values to controller: (-4.33517553396348, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:57:49,791] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:49,912] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:49,912] [32mMoving Gun to (-4.335862179471293, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:49,913] [32mSending adjusted values to controller: (-4.335862179471293, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:57:50,089] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:50,168] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:50,168] [32mMoving Gun to (-4.278870602322855, -1.2201690673828125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:50,168] [32mSending adjusted values to controller: (-4.278870602322855, -1.2201690673828125)[0m
+[ADMIN           - 2025-10-16 16:57:50,312] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:50,408] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:50,408] [32mMoving Gun to (-4.27749731130723, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:50,408] [32mSending adjusted values to controller: (-4.27749731130723, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:57:50,631] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:50,655] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:50,655] [32mMoving Gun to (-4.219132443143168, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:50,656] [32mSending adjusted values to controller: (-4.219132443143168, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:57:50,830] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:50,937] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:50,998] [32mMoving Gun to (-4.218445797635355, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:50,999] [32mSending adjusted values to controller: (-4.218445797635355, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:57:51,183] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:51,495] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:51,495] [32mMoving Gun to (-4.161454220486918, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:51,496] [32mSending adjusted values to controller: (-4.161454220486918, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:57:51,656] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:51,991] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:51,991] [32mMoving Gun to (-4.102402706815043, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:51,992] [32mSending adjusted values to controller: (-4.102402706815043, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:57:52,152] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:59,240] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:59,240] [32mMoving Gun to (-4.158629397677145, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:59,240] [32mSending adjusted values to controller: (-4.158629397677145, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:57:59,468] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:57:59,560] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:57:59,560] [32mMoving Gun to (-4.157942752169332, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:57:59,560] [32mSending adjusted values to controller: (-4.157942752169332, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:57:59,955] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:00,039] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:00,040] [32mMoving Gun to (-4.21218774728652, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:00,040] [32mSending adjusted values to controller: (-4.21218774728652, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:00,200] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:00,319] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:00,319] [32mMoving Gun to (-4.214247683809957, -1.2201690673828125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:00,319] [32mSending adjusted values to controller: (-4.214247683809957, -1.2201690673828125)[0m
+[ADMIN           - 2025-10-16 16:58:00,519] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:00,696] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:00,696] [32mMoving Gun to (-4.268492678927145, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:00,697] [32mSending adjusted values to controller: (-4.268492678927145, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:58:01,175] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:01,295] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:01,295] [32mMoving Gun to (-4.32479761056777, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:01,295] [32mSending adjusted values to controller: (-4.32479761056777, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:58:01,480] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:01,816] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:01,817] [32mMoving Gun to (-4.381789187716207, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:01,817] [32mSending adjusted values to controller: (-4.381789187716207, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:01,998] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:02,536] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:02,536] [32mMoving Gun to (-4.436720828341207, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:02,536] [32mSending adjusted values to controller: (-4.436720828341207, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:02,746] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:02,816] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:02,816] [32mMoving Gun to (-4.438094119356832, -1.2201690673828125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:02,816] [32mSending adjusted values to controller: (-4.438094119356832, -1.2201690673828125)[0m
+[ADMIN           - 2025-10-16 16:58:03,098] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:03,098] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:03,098] [32mMoving Gun to (-4.49233911447402, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:03,099] [32mSending adjusted values to controller: (-4.49233911447402, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:58:03,298] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:03,336] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:03,336] [32mMoving Gun to (-4.49233911447402, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:03,337] [32mSending adjusted values to controller: (-4.49233911447402, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:03,646] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:03,647] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:03,647] [32mMoving Gun to (-4.552077273653707, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:03,647] [32mSending adjusted values to controller: (-4.552077273653707, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:03,846] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:03,895] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:03,895] [32mMoving Gun to (-4.552077273653707, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:03,895] [32mSending adjusted values to controller: (-4.552077273653707, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:04,196] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:04,200] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:04,200] [32mMoving Gun to (-4.60769555978652, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:04,200] [32mSending adjusted values to controller: (-4.60769555978652, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:04,560] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:04,720] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:04,720] [32mMoving Gun to (-4.66262720041152, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:04,722] [32mSending adjusted values to controller: (-4.66262720041152, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:04,947] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:05,104] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:05,104] [32mMoving Gun to (-4.663313845919332, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:05,105] [32mSending adjusted values to controller: (-4.663313845919332, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:05,296] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:05,400] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:05,400] [32mMoving Gun to (-4.719618777559957, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:05,401] [32mSending adjusted values to controller: (-4.719618777559957, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:58:05,560] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:05,721] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:05,721] [32mMoving Gun to (-4.719618777559957, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:05,721] [32mSending adjusted values to controller: (-4.719618777559957, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:58:05,904] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:06,040] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:06,041] [32mMoving Gun to (-4.776610354708395, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:06,041] [32mSending adjusted values to controller: (-4.776610354708395, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:58:06,241] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:06,320] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:06,320] [32mMoving Gun to (-4.777297000216207, -1.2201690673828125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:06,321] [32mSending adjusted values to controller: (-4.777297000216207, -1.2201690673828125)[0m
+[ADMIN           - 2025-10-16 16:58:06,592] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:06,665] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:06,665] [32mMoving Gun to (-4.832228640841207, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:06,665] [32mSending adjusted values to controller: (-4.832228640841207, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:58:06,865] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:07,080] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:07,080] [32mMoving Gun to (-4.89059350900527, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:07,081] [32mSending adjusted values to controller: (-4.89059350900527, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:58:07,336] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:07,424] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:07,425] [32mMoving Gun to (-4.888533572481832, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:07,425] [32mSending adjusted values to controller: (-4.888533572481832, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:58:07,689] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:07,760] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:07,761] [32mMoving Gun to (-4.94552514963027, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:07,761] [32mSending adjusted values to controller: (-4.94552514963027, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:58:07,945] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:08,424] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:08,424] [32mMoving Gun to (-5.004576663302145, -1.22222900390625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:08,424] [32mSending adjusted values to controller: (-5.004576663302145, -1.22222900390625)[0m
+[ADMIN           - 2025-10-16 16:58:08,632] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:09,401] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:09,401] [32mMoving Gun to (-5.059508303927145, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:09,402] [32mSending adjusted values to controller: (-5.059508303927145, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:58:09,601] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:10,344] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:10,344] [32mMoving Gun to (-5.003281613065043, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:10,344] [32mSending adjusted values to controller: (-5.003281613065043, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:10,543] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:10,841] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:10,841] [32mMoving Gun to (-5.00259496755723, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:10,842] [32mSending adjusted values to controller: (-5.00259496755723, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:11,040] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:11,345] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:11,346] [32mMoving Gun to (-4.946976681424418, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:11,346] [32mSending adjusted values to controller: (-4.946976681424418, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:58:11,558] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:11,824] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:11,824] [32mMoving Gun to (-4.946290035916605, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:11,825] [32mSending adjusted values to controller: (-4.946290035916605, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:58:11,985] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:12,145] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:12,145] [32mMoving Gun to (-4.886551876736918, -1.2201690673828125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:12,146] [32mSending adjusted values to controller: (-4.886551876736918, -1.2201690673828125)[0m
+[ADMIN           - 2025-10-16 16:58:12,318] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:12,488] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:12,489] [32mMoving Gun to (-4.886551876736918, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:12,489] [32mSending adjusted values to controller: (-4.886551876736918, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:12,666] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:12,825] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:12,826] [32mMoving Gun to (-4.82956029958848, -1.2201690673828125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:12,826] [32mSending adjusted values to controller: (-4.82956029958848, -1.2201690673828125)[0m
+[ADMIN           - 2025-10-16 16:58:13,074] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:13,128] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:13,128] [32mMoving Gun to (-4.82956029958848, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:13,128] [32mSending adjusted values to controller: (-4.82956029958848, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:58:13,427] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:13,448] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:13,448] [32mMoving Gun to (-4.770508785916605, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:13,449] [32mSending adjusted values to controller: (-4.770508785916605, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:58:13,624] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:13,744] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:13,744] [32mMoving Gun to (-4.769822140408793, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:13,744] [32mSending adjusted values to controller: (-4.769822140408793, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:58:13,975] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:14,064] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:14,064] [32mMoving Gun to (-4.712830563260355, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:14,066] [32mSending adjusted values to controller: (-4.712830563260355, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:58:14,248] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:14,425] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:14,426] [32mMoving Gun to (-4.712830563260355, -1.2201690673828125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:14,426] [32mSending adjusted values to controller: (-4.712830563260355, -1.2201690673828125)[0m
+[ADMIN           - 2025-10-16 16:58:14,584] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:14,729] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:14,729] [32mMoving Gun to (-4.654465695096293, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:14,731] [32mSending adjusted values to controller: (-4.654465695096293, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:58:14,919] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:15,049] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:15,049] [32mMoving Gun to (-4.655152340604105, -1.2215423583984375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:15,050] [32mSending adjusted values to controller: (-4.655152340604105, -1.2215423583984375)[0m
+[ADMIN           - 2025-10-16 16:58:15,268] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:15,288] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:15,288] [32mMoving Gun to (-4.594040890408793, -1.2201690673828125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:15,289] [32mSending adjusted values to controller: (-4.594040890408793, -1.2201690673828125)[0m
+[ADMIN           - 2025-10-16 16:58:15,466] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:16,144] [35mBallistic adjustment pressed RIGHT with 0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:16,144] [32mMoving Gun to (-4.537049313260355, -1.220855712890625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:16,146] [32mSending adjusted values to controller: (-4.537049313260355, -1.220855712890625)[0m
+[ADMIN           - 2025-10-16 16:58:16,422] [34mEvent btn_up for 9 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:27,017] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:27,017] [32mMoving Gun to (-4.591902713106832, -0.7985687255859375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:27,017] [32mSending adjusted values to controller: (-4.591902713106832, -0.7985687255859375)[0m
+[ADMIN           - 2025-10-16 16:58:27,233] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:28,152] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:28,152] [32mMoving Gun to (-4.591902713106832, -0.7985687255859375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:28,153] [32mSending adjusted values to controller: (-4.591902713106832, -0.7985687255859375)[0m
+[ADMIN           - 2025-10-16 16:58:29,017] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:29,017] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:29,018] [32mMoving Gun to (-4.64065454416152, -0.7999420166015625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:29,018] [32mSending adjusted values to controller: (-4.64065454416152, -0.7999420166015625)[0m
+[ADMIN           - 2025-10-16 16:58:29,217] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:29,512] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:29,512] [32mMoving Gun to (-4.645461062716207, -0.7985687255859375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:29,512] [32mSending adjusted values to controller: (-4.645461062716207, -0.7985687255859375)[0m
+[ADMIN           - 2025-10-16 16:58:29,754] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:30,296] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:30,296] [32mMoving Gun to (-4.697646121309957, -0.797882080078125) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:30,297] [32mSending adjusted values to controller: (-4.697646121309957, -0.797882080078125)[0m
+[ADMIN           - 2025-10-16 16:58:30,507] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:32,537] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:32,537] [32mMoving Gun to (-4.754637698458395, -0.800628662109375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:32,537] [32mSending adjusted values to controller: (-4.754637698458395, -0.800628662109375)[0m
+[ADMIN           - 2025-10-16 16:58:32,761] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:33,216] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:33,255] [32mMoving Gun to (-4.809569339083395, -0.7999420166015625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:33,256] [32mSending adjusted values to controller: (-4.809569339083395, -0.7999420166015625)[0m
+[ADMIN           - 2025-10-16 16:58:33,406] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:33,561] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:33,561] [32mMoving Gun to (-4.810255984591207, -0.7985687255859375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:33,562] [32mSending adjusted values to controller: (-4.810255984591207, -0.7985687255859375)[0m
+[ADMIN           - 2025-10-16 16:58:33,758] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:33,897] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:33,897] [32mMoving Gun to (-4.86862085275527, -0.79925537109375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:33,897] [32mSending adjusted values to controller: (-4.86862085275527, -0.79925537109375)[0m
+[ADMIN           - 2025-10-16 16:58:34,158] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:34,216] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:34,216] [32mMoving Gun to (-4.86862085275527, -0.79925537109375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:34,216] [32mSending adjusted values to controller: (-4.86862085275527, -0.79925537109375)[0m
+[ADMIN           - 2025-10-16 16:58:34,507] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:34,536] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:34,536] [32mMoving Gun to (-4.919432620333395, -0.7999420166015625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:34,537] [32mSending adjusted values to controller: (-4.919432620333395, -0.7999420166015625)[0m
+[ADMIN           - 2025-10-16 16:58:34,721] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:34,936] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:34,937] [32mMoving Gun to (-4.922865847872457, -0.7999420166015625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:34,937] [32mSending adjusted values to controller: (-4.922865847872457, -0.7999420166015625)[0m
+[ADMIN           - 2025-10-16 16:58:35,120] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:35,361] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:35,361] [32mMoving Gun to (-4.979170779513082, -0.7999420166015625) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:35,361] [32mSending adjusted values to controller: (-4.979170779513082, -0.7999420166015625)[0m
+[ADMIN           - 2025-10-16 16:58:35,640] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:38,057] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:38,057] [32mMoving Gun to (-5.03616235666152, -0.79925537109375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:38,058] [32mSending adjusted values to controller: (-5.03616235666152, -0.79925537109375)[0m
+[ADMIN           - 2025-10-16 16:58:38,241] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:38,625] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:38,625] [32mMoving Gun to (-5.095213870333395, -0.79925537109375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:38,625] [32mSending adjusted values to controller: (-5.095213870333395, -0.79925537109375)[0m
+[ADMIN           - 2025-10-16 16:58:38,825] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:38,945] [35mBallistic adjustment pressed LEFT with -0.057295779513082325 0[0m
+[ADMIN           - 2025-10-16 16:58:38,946] [32mMoving Gun to (-5.093153933809957, -0.800628662109375) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:38,946] [32mSending adjusted values to controller: (-5.093153933809957, -0.800628662109375)[0m
+[ADMIN           - 2025-10-16 16:58:39,117] [34mEvent btn_up for 8 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:39,801] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:58:39,801] [32mMoving Gun to (-5.0921630859375, -0.8565511506068323) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:39,802] [32mSending adjusted values to controller: (-5.0921630859375, -0.8565511506068323)[0m
+[ADMIN           - 2025-10-16 16:58:39,961] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:40,041] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:58:40,075] [32mMoving Gun to (-5.0928497314453125, -0.8565511506068323) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:40,075] [32mSending adjusted values to controller: (-5.0928497314453125, -0.8565511506068323)[0m
+[ADMIN           - 2025-10-16 16:58:40,405] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:40,405] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:58:40,407] [32mMoving Gun to (-5.09490966796875, -0.9107961457240198) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:40,407] [32mSending adjusted values to controller: (-5.09490966796875, -0.9107961457240198)[0m
+[ADMIN           - 2025-10-16 16:58:40,618] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:40,619] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:58:40,619] [32mMoving Gun to (-5.0942230224609375, -0.9142293732630823) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:40,619] [32mSending adjusted values to controller: (-5.0942230224609375, -0.9142293732630823)[0m
+[ADMIN           - 2025-10-16 16:58:41,106] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:41,107] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:58:41,107] [32mMoving Gun to (-5.09490966796875, -0.9705343049037073) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:41,107] [32mSending adjusted values to controller: (-5.09490966796875, -0.9705343049037073)[0m
+[ADMIN           - 2025-10-16 16:58:41,304] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:41,304] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:58:41,304] [32mMoving Gun to (-5.0928497314453125, -0.9712209504115198) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:41,305] [32mSending adjusted values to controller: (-5.0928497314453125, -0.9712209504115198)[0m
+[ADMIN           - 2025-10-16 16:58:41,791] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:41,793] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:58:41,793] [32mMoving Gun to (-5.09490966796875, -1.02615259103652) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:41,793] [32mSending adjusted values to controller: (-5.09490966796875, -1.02615259103652)[0m
+[ADMIN           - 2025-10-16 16:58:41,989] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:41,989] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:58:41,990] [32mMoving Gun to (-5.093536376953125, -1.027525882052145) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:41,990] [32mSending adjusted values to controller: (-5.093536376953125, -1.027525882052145)[0m
+[ADMIN           - 2025-10-16 16:58:42,472] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:42,473] [35mBallistic adjustment pressed UP with 0 -0.057295779513082325[0m
+[ADMIN           - 2025-10-16 16:58:42,473] [32mMoving Gun to (-5.0955963134765625, -1.085204104708395) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:42,474] [32mSending adjusted values to controller: (-5.0955963134765625, -1.085204104708395)[0m
+[ADMIN           - 2025-10-16 16:58:42,688] [34mEvent btn_up for 1 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-16 16:58:48,240] [32mMoving Gun to (0, 0) with speeds (Pan: 50, Tilt: 50)[0m
+[ADMIN           - 2025-10-16 16:58:48,240] [32mSending adjusted values to controller: (0, 0)[0m
+[ADMIN           - 2025-10-16 16:58:48,883] [33mGun not at zero position. Current position: Azimuth -5.09490966796875, Elevation -1.086273193359375[0m
+[ADMIN           - 2025-10-16 16:58:52,579] [32mCASTLE listener stopped[0m

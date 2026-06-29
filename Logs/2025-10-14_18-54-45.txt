@@ -1,0 +1,100 @@
+[Unknown         - 2025-10-14 18:54:47,231] [32mConfiguration loaded[0m
+[Unknown         - 2025-10-14 18:54:47,232] [32mWind Speed Mode: Manual[0m
+[Unknown         - 2025-10-14 18:54:47,232] [32mManual Wind Speed set to: 0.0[0m
+[Unknown         - 2025-10-14 18:54:47,233] [32mWind Direction: 0[0m
+[Unknown         - 2025-10-14 18:54:47,233] [32mLRF Firing Enabled: False[0m
+[Unknown         - 2025-10-14 18:54:47,234] [32mDefault LRF Distance: 1000[0m
+[Unknown         - 2025-10-14 18:54:47,235] [32mTrack Mode: Manual ground tracking[0m
+[Unknown         - 2025-10-14 18:54:47,235] [32mVelocity: 50[0m
+[Unknown         - 2025-10-14 18:54:47,236] [32mThermal Camera Power: Off[0m
+[Unknown         - 2025-10-14 18:54:47,236] [32mFiring Rate: 700[0m
+[Unknown         - 2025-10-14 18:54:47,237] [32mNumber of Rounds: 0[0m
+[Unknown         - 2025-10-14 18:54:47,237] [32mFire on Move: Off[0m
+[Unknown         - 2025-10-14 18:54:47,238] [32mMils Value: 1.0[0m
+[Unknown         - 2025-10-14 18:54:47,238] [32mTracking Kp: 3.2[0m
+[Unknown         - 2025-10-14 18:54:47,239] [32mTracking Ki: 0.7[0m
+[Unknown         - 2025-10-14 18:54:47,239] [32mTracking Kd: 0.0[0m
+[Unknown         - 2025-10-14 18:54:47,240] [32mRadar IP: 10.1.0.250[0m
+[Unknown         - 2025-10-14 18:54:47,240] [32mRadar Port: 9011[0m
+[Unknown         - 2025-10-14 18:54:47,240] [32mInitialized default taboo values[0m
+[Unknown         - 2025-10-14 18:54:47,241] [32mUpdated taboo values from config: Pan: [-180, 180], Tilt: [15, -5][0m
+[Unknown         - 2025-10-14 18:54:47,241] [32mSending PID Values to ESP: (3.2, 0.7, 0.0)[0m
+[Unknown         - 2025-10-14 18:54:47,242] [32mInitial manual_wind_speed after loading config: 0.0[0m
+[Unknown         - 2025-10-14 18:54:50,127] [32mLogged in[0m
+[ADMIN           - 2025-10-14 18:54:50,128] [32mTilt direction set to -1 for system type RCWS[0m
+[ADMIN           - 2025-10-14 18:54:50,131] [32mConfiguration file updated with new taboo values[0m
+[ADMIN           - 2025-10-14 18:54:50,158] [32mSystem parameters set for RCWS: PAN limits [-180, 180], TILT limits [45, -10][0m
+[ADMIN           - 2025-10-14 18:54:53,719] [35m(-180, 180, -10, 45)[0m
+[ADMIN           - 2025-10-14 18:54:57,672] [35mStatus ARMED[0m
+[ADMIN           - 2025-10-14 18:54:57,673] [32mApplying brake because Fire on Move is Off[0m
+[ADMIN           - 2025-10-14 18:55:00,175] [35mTrigger pressed at Azimuth -19.45404052734375, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:00,352] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:00,353] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:00,427] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:01,109] [35mTrigger pressed at Azimuth -19.45404052734375, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:01,152] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:01,255] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:01,343] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:01,832] [35mTrigger pressed at Azimuth -19.45404052734375, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:01,961] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:01,976] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:02,034] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:02,414] [35mTrigger pressed at Azimuth -19.451980590820312, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:02,554] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:02,555] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:02,627] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:03,033] [35mTrigger pressed at Azimuth -19.45404052734375, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:03,235] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:04,952] [35mTrigger pressed at Azimuth -19.452667236328125, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:04,974] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:05,071] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:05,153] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:05,550] [35mTrigger pressed at Azimuth -19.454727172851562, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:05,590] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:05,694] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:05,766] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:06,111] [35mTrigger pressed at Azimuth -19.45404052734375, Elevation -8.258285522460938[0m
+[ADMIN           - 2025-10-14 18:55:06,162] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:06,256] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:06,363] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:07,312] [35mTrigger pressed at Azimuth -19.453353881835938, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:07,375] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:07,574] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:07,575] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:11,208] [35mTrigger pressed at Azimuth -19.454727172851562, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:11,376] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:18,470] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:18,579] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:19,342] [35mTrigger pressed at Azimuth -19.454727172851562, Elevation -8.258285522460938[0m
+[ADMIN           - 2025-10-14 18:55:19,393] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:20,446] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:20,590] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:21,167] [35mTrigger pressed at Azimuth -19.453353881835938, Elevation -8.258285522460938[0m
+[ADMIN           - 2025-10-14 18:55:21,206] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:21,291] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:21,400] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:21,809] [35mTrigger pressed at Azimuth -19.452667236328125, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:21,997] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:21,997] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:22,073] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:23,463] [35mTrigger pressed at Azimuth -19.452667236328125, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:23,607] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:23,607] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:23,679] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:26,383] [35mTrigger pressed at Azimuth -19.452667236328125, Elevation -8.256912231445312[0m
+[ADMIN           - 2025-10-14 18:55:26,424] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:30,320] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:30,408] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:55:40,774] [35mTrigger pressed at Azimuth -19.452667236328125, Elevation -8.257598876953125[0m
+[ADMIN           - 2025-10-14 18:55:40,817] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:43,375] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:55:43,606] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:57:32,738] [35mTrigger pressed at Azimuth -19.447860717773438, Elevation -8.255538940429688[0m
+[ADMIN           - 2025-10-14 18:57:32,817] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:57:32,939] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:57:33,014] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:57:48,692] [35mTrigger pressed at Azimuth -19.449920654296875, Elevation -8.254852294921875[0m
+[ADMIN           - 2025-10-14 18:57:48,829] [34mEvent btn_down for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:57:57,023] [35mTrigger released[0m
+[ADMIN           - 2025-10-14 18:57:57,024] [34mEvent btn_up for 7 on 3D Joystick Keyboard is not available[0m
+[ADMIN           - 2025-10-14 18:58:09,962] [32mCASTLE listener stopped[0m

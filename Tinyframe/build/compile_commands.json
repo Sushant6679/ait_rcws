@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/vinay/Documents/AIT/RCWS UI/RCWS_UI/Tinyframe/build",
+  "command": "C:\\TDM-GCC-64\\bin\\gcc.exe -DBUILD_DLL -Dtinyframe_python_EXPORTS @CMakeFiles/tinyframe_python.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\tinyframe_python.dir\\tinyframe_wrapper.c.obj -c \"C:\\Users\\vinay\\Documents\\AIT\\RCWS UI\\RCWS_UI\\Tinyframe\\tinyframe_wrapper.c\"",
+  "file": "C:/Users/vinay/Documents/AIT/RCWS UI/RCWS_UI/Tinyframe/tinyframe_wrapper.c",
+  "output": "CMakeFiles/tinyframe_python.dir/tinyframe_wrapper.c.obj"
+},
+{
+  "directory": "C:/Users/vinay/Documents/AIT/RCWS UI/RCWS_UI/Tinyframe/build",
+  "command": "C:\\TDM-GCC-64\\bin\\gcc.exe -DBUILD_DLL -Dtinyframe_python_EXPORTS @CMakeFiles/tinyframe_python.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\tinyframe_python.dir\\TinyFrame.c.obj -c \"C:\\Users\\vinay\\Documents\\AIT\\RCWS UI\\RCWS_UI\\Tinyframe\\TinyFrame.c\"",
+  "file": "C:/Users/vinay/Documents/AIT/RCWS UI/RCWS_UI/Tinyframe/TinyFrame.c",
+  "output": "CMakeFiles/tinyframe_python.dir/TinyFrame.c.obj"
+}
+]
